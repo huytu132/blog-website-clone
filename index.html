@@ -28,6 +28,7 @@
     let quizData = null;
     let currentSection = null;
     let currentIndex = 0;
+    let shuffledOptions = []; // lưu đáp án sau khi xáo
 
     const menuDiv = document.getElementById("menu");
     const quizDiv = document.getElementById("quiz");
@@ -73,7 +74,7 @@
       currentSection = {
         id: section.id,
         title: section.title,
-        questions: shuffle([...section.questions]) // xáo trộn
+        questions: shuffle([...section.questions]) // xáo trộn câu hỏi
       };
       currentIndex = 0;
       showQuestion();
@@ -84,7 +85,7 @@
       currentSection = {
         id: "all",
         title: "Tất cả câu hỏi",
-        questions: shuffle(quizData.sections.flatMap(s => s.questions)) // xáo trộn
+        questions: shuffle(quizData.sections.flatMap(s => s.questions)) // xáo trộn câu hỏi
       };
       currentIndex = 0;
       showQuestion();
@@ -96,12 +97,22 @@
       quizDiv.classList.remove("hidden");
 
       const q = currentSection.questions[currentIndex];
+
+      // Tạo mảng options có đánh dấu đúng/sai
+      shuffledOptions = q.options.map((opt, i) => ({
+        text: opt,
+        isCorrect: i === q.correct
+      }));
+
+      // Xáo trộn đáp án
+      shuffle(shuffledOptions);
+
       quizDiv.innerHTML = `
         <h3>${currentSection.title}</h3>
         <p><b>Câu ${currentIndex + 1}:</b> ${q.question}</p>
         <div id="options">
-          ${q.options.map((opt, i) =>
-            `<div class="option" onclick="checkAnswer(${i})">${opt}</div>`
+          ${shuffledOptions.map((opt, i) =>
+            `<div class="option" onclick="checkAnswer(${i})">${opt.text}</div>`
           ).join("")}
         </div>
         <div id="nav"></div>
@@ -110,13 +121,12 @@
 
     // ====== Check Answer ======
     function checkAnswer(choice) {
-      const q = currentSection.questions[currentIndex];
       const optionsDiv = document.getElementById("options");
       const optionEls = optionsDiv.querySelectorAll(".option");
 
       optionEls.forEach((el, i) => {
-        if (i === q.correct) el.classList.add("correct");
-        if (i === choice && choice !== q.correct) el.classList.add("wrong");
+        if (shuffledOptions[i].isCorrect) el.classList.add("correct");
+        if (i === choice && !shuffledOptions[i].isCorrect) el.classList.add("wrong");
         el.style.pointerEvents = "none";
       });
 
