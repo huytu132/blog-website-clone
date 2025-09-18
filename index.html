@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Trắc nghiệm Cán bộ</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .hidden { display: none; }
+    .btn { padding: 8px 12px; margin: 4px; border: none; cursor: pointer; border-radius: 6px; }
+    .btn-blue { background: #3b82f6; color: white; }
+    .btn-green { background: #16a34a; color: white; }
+    .btn-red { background: #dc2626; color: white; }
+    .option { margin: 6px 0; padding: 6px; border-radius: 6px; cursor: pointer; }
+    .correct { background: #bbf7d0; }
+    .wrong { background: #fecaca; }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <button class="btn btn-blue" onclick="showMenu()">🏠 Trang chủ</button>
+  </div>
+
+  <h1>Trắc nghiệm Cán bộ</h1>
+  <div id="menu"></div>
+  <div id="quiz" class="hidden"></div>
+
+  <script>
+    let quizData = null;
+    let currentSection = null;
+    let currentIndex = 0;
+
+    const menuDiv = document.getElementById("menu");
+    const quizDiv = document.getElementById("quiz");
+
+    // ====== Load JSON ======
+    fetch("questions.json")
+      .then(res => res.json())
+      .then(data => {
+        quizData = data;
+        showMenu();
+      })
+      .catch(err => {
+        menuDiv.innerHTML = "<p style='color:red'>Lỗi tải file questions.json</p>";
+        console.error(err);
+      });
+
+    // ====== Hiện menu ======
+    function showMenu() {
+      quizDiv.classList.add("hidden");
+      menuDiv.innerHTML = `
+        <h2>${quizData.title}</h2>
+        <p>${quizData.description}</p>
+        <h3>Chọn mục để làm bài</h3>
+        ${quizData.sections.map(sec => 
+          `<button class="btn btn-blue" onclick="startSection('${sec.id}')">${sec.title}</button>`
+        ).join("")}
+        <button class="btn btn-green" onclick="startAll()">Làm tất cả</button>
+      `;
+    }
+
+    // ====== Start Section ======
+    function startSection(id) {
+      currentSection = quizData.sections.find(s => s.id === id);
+      currentIndex = 0;
+      showQuestion();
+    }
+
+    // ====== Start All ======
+    function startAll() {
+      currentSection = {
+        id: "all",
+        title: "Tất cả câu hỏi",
+        questions: quizData.sections.flatMap(s => s.questions)
+      };
+      currentIndex = 0;
+      showQuestion();
+    }
+
+    // ====== Show Question ======
+    function showQuestion() {
+      menuDiv.innerHTML = "";
+      quizDiv.classList.remove("hidden");
+
+      const q = currentSection.questions[currentIndex];
+      quizDiv.innerHTML = `
+        <h3>${currentSection.title}</h3>
+        <p><b>Câu ${currentIndex + 1}:</b> ${q.question}</p>
+        <div id="options">
+          ${q.options.map((opt, i) =>
+            `<div class="option" style="border:1px solid" onclick="checkAnswer(${i})">${opt}</div>`
+          ).join("")}
+        </div>
+        <div id="nav"></div>
+      `;
+    }
+
+    // ====== Check Answer ======
+    function checkAnswer(choice) {
+      const q = currentSection.questions[currentIndex];
+      const optionsDiv = document.getElementById("options");
+      const optionEls = optionsDiv.querySelectorAll(".option");
+
+      optionEls.forEach((el, i) => {
+        if (i === q.correct) el.classList.add("correct");
+        if (i === choice && choice !== q.correct) el.classList.add("wrong");
+        el.style.pointerEvents = "none";
+      });
+
+      document.getElementById("nav").innerHTML = `
+        <button class="btn btn-blue" onclick="retry()">Làm lại</button>
+        ${currentIndex > 0 ? `<button class="btn btn-blue" onclick="prev()">Quay lại</button>` : ""}
+        ${currentIndex < currentSection.questions.length - 1 
+          ? `<button class="btn btn-green" onclick="next()">Next</button>`
+          : `<button class="btn btn-red" onclick="showMenu()">Kết thúc</button>`}
+      `;
+    }
+
+    // ====== Retry / Next / Prev ======
+    function retry() { showQuestion(); }
+    function next() { currentIndex++; showQuestion(); }
+    function prev() { currentIndex--; showQuestion(); }
+  </script>
+</body>
+</html>
