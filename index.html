@@ -65,6 +65,7 @@
           `<button class="btn btn-blue" onclick="startSection('${sec.id}')">${sec.title}</button>`
         ).join("")}
         <button class="btn btn-green" onclick="startAll()">Làm tất cả</button>
+        <button class="btn btn-green" onclick="startFortyQuestions()">Chọn ngẫu nhiên 40 câu</button>
       `;
     }
 
@@ -89,6 +90,17 @@
       };
       currentIndex = 0;
       showQuestion();
+    }
+
+    function startFortyQuestions(){
+        const data = shuffle(quizData.sections.flatMap(s => s.questions)).slice(0,40);
+        currentSection = {
+            id: "40",
+            title: "40 câu ngẫu nhiên",
+            questions:  data// xáo trộn câu hỏi
+        };
+        currentIndex = 0;
+        showQuestion();
     }
 
     // ====== Show Question ======
