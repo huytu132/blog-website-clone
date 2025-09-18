@@ -10,7 +10,7 @@
     .btn-blue { background: #3b82f6; color: white; }
     .btn-green { background: #16a34a; color: white; }
     .btn-red { background: #dc2626; color: white; }
-    .option { margin: 6px 0; padding: 6px; border-radius: 6px; cursor: pointer; }
+    .option { margin: 6px 0; padding: 6px; border-radius: 6px; cursor: pointer; border: 1px solid #ccc; }
     .correct { background: #bbf7d0; }
     .wrong { background: #fecaca; }
   </style>
@@ -44,6 +44,15 @@
         console.error(err);
       });
 
+    // ====== Hàm xáo trộn ======
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
     // ====== Hiện menu ======
     function showMenu() {
       quizDiv.classList.add("hidden");
@@ -60,7 +69,12 @@
 
     // ====== Start Section ======
     function startSection(id) {
-      currentSection = quizData.sections.find(s => s.id === id);
+      const section = quizData.sections.find(s => s.id === id);
+      currentSection = {
+        id: section.id,
+        title: section.title,
+        questions: shuffle([...section.questions]) // xáo trộn
+      };
       currentIndex = 0;
       showQuestion();
     }
@@ -70,7 +84,7 @@
       currentSection = {
         id: "all",
         title: "Tất cả câu hỏi",
-        questions: quizData.sections.flatMap(s => s.questions)
+        questions: shuffle(quizData.sections.flatMap(s => s.questions)) // xáo trộn
       };
       currentIndex = 0;
       showQuestion();
@@ -87,7 +101,7 @@
         <p><b>Câu ${currentIndex + 1}:</b> ${q.question}</p>
         <div id="options">
           ${q.options.map((opt, i) =>
-            `<div class="option" style="border:1px solid" onclick="checkAnswer(${i})">${opt}</div>`
+            `<div class="option" onclick="checkAnswer(${i})">${opt}</div>`
           ).join("")}
         </div>
         <div id="nav"></div>
