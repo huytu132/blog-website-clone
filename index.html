@@ -1,20 +1,132 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
   <meta charset="UTF-8">
   <title>Trắc nghiệm Cán bộ</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 20px; }
-    .hidden { display: none; }
-    .btn { padding: 8px 12px; margin: 4px; border: none; cursor: pointer; border-radius: 6px; }
-    .btn-blue { background: #3b82f6; color: white; }
-    .btn-green { background: #16a34a; color: white; }
-    .btn-red { background: #dc2626; color: white; }
-    .option { margin: 6px 0; padding: 6px; border-radius: 6px; cursor: pointer; border: 1px solid #ccc; }
-    .correct { background: #bbf7d0; }
-    .wrong { background: #fecaca; }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.5;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .btn {
+      padding: 10px 14px;
+      margin: 6px 4px;
+      border: none;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 16px;
+      transition: background 0.2s ease;
+    }
+
+    .btn:hover {
+      opacity: 0.9;
+    }
+
+    .btn-blue {
+      background: #3b82f6;
+      color: white;
+    }
+
+    .btn-green {
+      background: #16a34a;
+      color: white;
+    }
+
+    .btn-red {
+      background: #dc2626;
+      color: white;
+    }
+
+    .option {
+      margin: 8px 0;
+      padding: 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      border: 1px solid #ccc;
+      transition: background 0.2s ease;
+      font-size: 16px;
+    }
+
+    .option:hover {
+      background: #f3f4f6;
+    }
+
+    .correct {
+      background: #bbf7d0 !important;
+    }
+
+    .wrong {
+      background: #fecaca !important;
+    }
+
+    a {
+      text-decoration: none;
+      color: white;
+    }
+
+    #header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    #menu,
+    #quiz {
+      max-width: 900px;
+      margin: auto;
+    }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 768px) {
+      body {
+        margin: 10px;
+        font-size: 15px;
+      }
+
+      .btn {
+        font-size: 14px;
+        padding: 8px 12px;
+      }
+
+      .option {
+        font-size: 14px;
+        padding: 8px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      h1 {
+        font-size: 20px;
+      }
+
+      h2,
+      h3 {
+        font-size: 18px;
+      }
+
+      .btn {
+        display: block;
+        width: 100%;
+        margin: 6px 0;
+        font-size: 14px;
+      }
+
+      .option {
+        font-size: 14px;
+        padding: 8px;
+      }
+    }
   </style>
 </head>
+
 <body>
   <div id="header">
     <button class="btn btn-blue" onclick="showMenu()">🏠 Trang chủ</button>
@@ -61,11 +173,12 @@
         <h2>${quizData.title}</h2>
         <p>${quizData.description}</p>
         <h3>Chọn mục để làm bài</h3>
-        ${quizData.sections.map(sec => 
-          `<button class="btn btn-blue" onclick="startSection('${sec.id}')">${sec.title}</button>`
-        ).join("")}
+        ${quizData.sections.map(sec =>
+        `<button class="btn btn-blue" onclick="startSection('${sec.id}')">${sec.title}</button>`
+      ).join("")}
         <button class="btn btn-green" onclick="startAll()">Làm tất cả</button>
-        <button class="btn btn-green" onclick="startFortyQuestions()">Chọn ngẫu nhiên 40 câu</button>
+        <h3>Kiểm tra</h3>
+        <button class="btn btn-green""><a href="exam.html">Chọn ngẫu nhiên 40 câu</a></button>
       `;
     }
 
@@ -92,16 +205,16 @@
       showQuestion();
     }
 
-    function startFortyQuestions(){
-        const data = shuffle(quizData.sections.flatMap(s => s.questions)).slice(0,40);
-        currentSection = {
-            id: "40",
-            title: "40 câu ngẫu nhiên",
-            questions:  data// xáo trộn câu hỏi
-        };
-        currentIndex = 0;
-        showQuestion();
-    }
+    // function startFortyQuestions(){
+    //     const data = shuffle(quizData.sections.flatMap(s => s.questions)).slice(0,40);
+    //     currentSection = {
+    //         id: "40",
+    //         title: "40 câu ngẫu nhiên",
+    //         questions:  data// xáo trộn câu hỏi
+    //     };
+    //     currentIndex = 0;
+    //     showExam();
+    // }
 
     // ====== Show Question ======
     function showQuestion() {
@@ -124,8 +237,8 @@
         <p><b>Câu ${currentIndex + 1}:</b> ${q.question}</p>
         <div id="options">
           ${shuffledOptions.map((opt, i) =>
-            `<div class="option" onclick="checkAnswer(${i})">${opt.text}</div>`
-          ).join("")}
+        `<div class="option" onclick="checkAnswer(${i})">${opt.text}</div>`
+      ).join("")}
         </div>
         <div id="nav"></div>
       `;
@@ -145,7 +258,7 @@
       document.getElementById("nav").innerHTML = `
         <button class="btn btn-blue" onclick="retry()">Làm lại</button>
         ${currentIndex > 0 ? `<button class="btn btn-blue" onclick="prev()">Quay lại</button>` : ""}
-        ${currentIndex < currentSection.questions.length - 1 
+        ${currentIndex < currentSection.questions.length - 1
           ? `<button class="btn btn-green" onclick="next()">Next</button>`
           : `<button class="btn btn-red" onclick="showMenu()">Kết thúc</button>`}
       `;
@@ -157,4 +270,5 @@
     function prev() { currentIndex--; showQuestion(); }
   </script>
 </body>
+
 </html>

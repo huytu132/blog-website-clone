@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Thi trắc nghiệm 40 câu</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: row;
+      background: #f3f4f6;
+    }
+
+    #header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: #3b82f6;
+      color: white;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 1100;
+    }
+
+    #header button a {
+      color: white;
+    }
+
+    #quiz {
+      flex: 1;
+      padding: 80px 20px 20px;
+      overflow-y: auto;
+    }
+
+    #sidebar {
+      width: 240px;
+      border-left: 1px solid #ccc;
+      padding: 15px;
+      background: #fff;
+      overflow-y: auto;
+      transition: transform 0.3s ease;
+      z-index: 1200;
+    }
+
+    .question {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-bottom: 14px;
+      border-radius: 8px;
+      background: white;
+    }
+
+    .option {
+      margin: 6px 0;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+
+    .option:hover {
+      background: #f1f5f9;
+    }
+
+    .selected {
+      background: #bfdbfe;
+    }
+
+    .correct {
+      background: #bbf7d0 !important;
+    }
+
+    .wrong {
+      background: #fecaca !important;
+    }
+
+    .sidebar-btn {
+      display: inline-block;
+      width: 38px;
+      height: 38px;
+      margin: 5px;
+      border-radius: 50%;
+      border: 1px solid #999;
+      text-align: center;
+      line-height: 38px;
+      cursor: pointer;
+    }
+
+    .answered {
+      background: #93c5fd;
+      color: white;
+      border-color: #3b82f6;
+    }
+
+    .sidebar-correct {
+      background: #22c55e;
+      color: white;
+      border-color: #15803d;
+    }
+
+    .sidebar-wrong {
+      background: #ef4444;
+      color: white;
+      border-color: #991b1b;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .btn {
+      padding: 8px 12px;
+      border: none;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .btn-blue {
+      background: #2563eb;
+      color: white;
+    }
+
+    .btn-yellow {
+      background: yellow;
+      color: black;
+      border: 1px solid gray;
+      margin-top: 8px;
+    }
+
+    #overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.4);
+      display: none;
+      z-index: 1150;
+    }
+
+    /* Modal */
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+      z-index: 1300;
+    }
+
+    .modal.show {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal-content {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      min-width: 300px;
+      text-align: center;
+      transform: translateY(-50px) scale(0.9);
+      transition: transform 0.3s ease;
+    }
+
+    .modal.show .modal-content {
+      transform: translateY(0) scale(1);
+    }
+
+    @media (max-width: 768px) {
+      #sidebar {
+        position: fixed;
+        top: 0;
+        right: 0;
+        height: 100%;
+        max-width: 280px;
+        width: 80%;
+        transform: translateX(100%);
+        box-shadow: -2px 0 8px rgba(0, 0, 0, 0.3);
+      }
+
+      #sidebar.show {
+        transform: translateX(0);
+      }
+
+      #menuToggle {
+        display: inline-block;
+        margin-right: 16px;
+      }
+    }
+
+    @media (min-width: 769px) {
+      #overlay {
+        display: none !important;
+      }
+
+      #menuToggle {
+        display: none;
+      }
+
+      #sidebar {
+        position: relative;
+        transform: none !important;
+        box-shadow: none !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="header">
+    <button class="btn btn-blue"><a href="index.html">🏠 Trang chủ</a></button>
+    <button id="menuToggle" class="btn btn-blue">☰</button>
+  </div>
+
+  <div id="quiz"></div>
+
+  <div id="sidebar">
+    <h3>Danh sách câu</h3>
+    <div id="questionNav"></div>
+    <button class="btn btn-blue" onclick="submitExam()">Nộp bài</button>
+  </div>
+
+  <div id="overlay"></div>
+
+  <!-- Modal -->
+  <div id="resultModal" class="modal hidden">
+    <div class="modal-content">
+      <h2>Kết quả</h2>
+      <p id="resultText"></p>
+      <button class="btn btn-blue" onclick="closeModal()">Đóng</button>
+    </div>
+  </div>
+
+  <script>
+    let quizData = null;
+    let currentSection = null;
+    let answers = {};
+    let shuffledQuestions = [];
+
+    fetch("questions.json")
+      .then(res => res.json())
+      .then(data => {
+        quizData = data;
+        startFortyQuestions();
+      });
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function startFortyQuestions() {
+      const data = shuffle(quizData.sections.flatMap(s => s.questions)).slice(0, 40);
+      currentSection = { id: "40", title: "40 câu ngẫu nhiên", questions: data };
+      showExam();
+    }
+
+    function showExam() {
+      const quizDiv = document.getElementById("quiz");
+      quizDiv.innerHTML = `<h2>${currentSection.title}</h2>`;
+
+      shuffledQuestions = currentSection.questions.map((q, idx) => {
+        const options = shuffle(q.options.map((opt, i) => ({
+          text: opt, isCorrect: i === q.correct
+        })));
+        return { ...q, index: idx, options };
+      });
+
+      shuffledQuestions.forEach((q, idx) => {
+        const qDiv = document.createElement("div");
+        qDiv.className = "question";
+        qDiv.id = `q${idx}`;
+        qDiv.innerHTML = `
+          <p><b>Câu ${idx + 1}:</b> ${q.question}</p>
+          <div id="opts${idx}">
+            ${q.options.map((opt, i) =>
+          `<div class="option" onclick="selectOption(${idx},${i}, this)">${opt.text}</div>`
+        ).join("")}
+          </div>`;
+        quizDiv.appendChild(qDiv);
+      });
+
+      renderSidebar();
+    }
+
+    function selectOption(qIndex, optIndex, el) {
+      answers[qIndex] = optIndex;
+      const optionsDiv = document.getElementById(`opts${qIndex}`);
+      optionsDiv.querySelectorAll(".option").forEach((o, i) => {
+        o.classList.remove("selected");
+        if (i === optIndex) o.classList.add("selected");
+      });
+      renderSidebar();
+    }
+
+    function renderSidebar() {
+      const nav = document.getElementById("questionNav");
+      nav.innerHTML = "";
+      for (let i = 0; i < currentSection.questions.length; i++) {
+        let cls = "sidebar-btn";
+        if (answers[i] !== undefined) cls += " answered";
+        const btn = document.createElement("div");
+        btn.className = cls;
+        btn.textContent = i + 1;
+        btn.onclick = () => {
+          document.getElementById(`q${i}`).scrollIntoView({ behavior: "smooth" });
+          closeSidebar();
+        };
+        nav.appendChild(btn);
+      }
+    }
+
+    function submitExam() {
+      if (Object.keys(answers).length < shuffledQuestions.length) {
+        document.getElementById("resultText").textContent = "⚠️ Vui lòng trả lời đầy đủ 40 câu trước khi nộp!";
+        document.getElementById("resultModal").classList.add("show");
+        return;
+      }
+
+      let score = 0;
+      shuffledQuestions.forEach((q, idx) => {
+        const optsDiv = document.getElementById(`opts${idx}`);
+        optsDiv.querySelectorAll(".option").forEach((o, i) => {
+          if (q.options[i].isCorrect) o.classList.add("correct");
+          if (answers[idx] === i && !q.options[i].isCorrect) o.classList.add("wrong");
+        });
+        if (answers[idx] !== undefined && q.options[answers[idx]].isCorrect) {
+          score++;
+        }
+      });
+
+      document.getElementById("resultText").textContent =
+        `✅ Bạn làm đúng ${score}/${shuffledQuestions.length} câu`;
+      document.getElementById("resultModal").classList.add("show");
+
+      const submitBtn = document.querySelector("#sidebar button");
+      submitBtn.classList.add('btn-yellow');
+      submitBtn.textContent = "Làm bài mới";
+      submitBtn.onclick = restartExam;
+
+      updateSidebarResult();
+      closeSidebar();
+    }
+
+    function updateSidebarResult() {
+      const nav = document.getElementById("questionNav");
+      nav.querySelectorAll(".sidebar-btn").forEach((btn, idx) => {
+        btn.classList.remove("answered");
+        if (answers[idx] !== undefined) {
+          if (shuffledQuestions[idx].options[answers[idx]].isCorrect) {
+            btn.classList.add("sidebar-correct");
+          } else {
+            btn.classList.add("sidebar-wrong");
+          }
+        }
+      });
+    }
+
+    function restartExam() {
+      answers = {};
+      startFortyQuestions();
+      const submitBtn = document.querySelector("#sidebar button");
+      submitBtn.classList.remove('btn-yellow');
+      submitBtn.textContent = "Nộp bài";
+      submitBtn.onclick = submitExam;
+      closeSidebar();
+    }
+
+    function closeModal() {
+      document.getElementById("resultModal").classList.remove("show");
+    }
+
+    const sidebar = document.getElementById("sidebar");
+    const overlay = document.getElementById("overlay");
+    const menuToggle = document.getElementById("menuToggle");
+
+    function openSidebar() {
+      sidebar.classList.add("show");
+      overlay.style.display = "block";
+    }
+
+    function closeSidebar() {
+      sidebar.classList.remove("show");
+      overlay.style.display = "none";
+    }
+
+    menuToggle.addEventListener("click", openSidebar);
+    overlay.addEventListener("click", closeSidebar);
+  </script>
+</body>
+</html>
