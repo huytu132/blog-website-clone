@@ -1,0 +1,168 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.5;
+    background: linear-gradient(#1e3c72, #2a5298); 
+    overflow: hidden;
+    color: #f1f1f1;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.btn {
+    padding: 10px 14px;
+    margin: 6px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: background 0.2s ease;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.btn-blue {
+    background: #3b82f6;
+}
+
+.btn-green {
+    background: #16a34a;
+}
+
+.btn-red {
+    background: #dc2626;
+}
+
+.btn-yellow {
+    background: #c2b280;
+    border-color: #4a7c59;
+}
+
+.option {
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    transition: background 0.2s ease;
+    font-size: 16px;
+}
+
+.option:hover {
+    background: #f3f4f6;
+}
+
+.correct {
+    background: #bbf7d0 !important;
+}
+
+.wrong {
+    background: #fecaca !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#menu,
+#quiz {
+    max-width: 900px;
+    margin: auto;
+}
+
+@media (max-width: 768px) {
+    body {
+        margin: 10px;
+        font-size: 15px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .option {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    h2,
+    h3 {
+        font-size: 18px;
+    }
+
+    .btn {
+        display: block;
+        width: 100%;
+        margin: 6px 0;
+        font-size: 14px;
+    }
+
+    .option {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
+
+.snowflake {
+  position: absolute;
+  top: -10px;
+  color: white;
+  font-size: 1em;
+  animation: fall 10s linear infinite;
+  opacity: 0.8;
+}
+
+@keyframes fall {
+  0% { transform: translateY(0) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(100vh) rotate(360deg); opacity: 0.3; }
+}
+
+.btn:hover {
+    background-color: #f4f1bb
+}
+
+.tree {
+  position: absolute;
+  bottom: 0;
+  width: 100px;
+  height: auto;
+  user-select: none;
+  pointer-events: none;
+  opacity: 0.9;
+}
+
+.tree.left {
+  left: 10%;
+}
+
+.tree.right {
+  right: 10%;
+}
+
+.tree.mid {
+  left: 45%;
+  width: 140px;
+}
