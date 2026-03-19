@@ -239,11 +239,11 @@ a {
 }
 
 .btn-back {
-    background-color: #171717;
+    background-color: white;
 }
 
 .btn-back:hover {
-    background-color: #292929;
+    background-color: #b6bfbc;
 }
 
 /* Primary (exam) */
