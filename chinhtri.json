@@ -1,0 +1,652 @@
+{
+    "title": "2. Bộ 60 Câu hỏi chính trị",
+    "description": "CÂU HỎI NGÀNH CHÍNH TRỊ",
+    "sections": [
+        {
+            "id": "section1",
+            "title": "I. CÔNG TÁC CHÍNH TRỊ",
+            "description": "",
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "Đồng chí cho biết Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương quy định về tuổi đời của người vào Đảng?",
+                    "options": [
+                        "Tại thời điểm chi bộ xét kết nạp, người vào Đảng phải đủ 16 tuổi đến đủ 60 tuổi (tính theo tháng). Việc kết nạp vào Đảng những người trên 60 tuổi do cấp ủy trực thuộc Trung ương xem xét, quyết định.",
+                        "Tại thời điểm chi bộ xét kết nạp, người vào Đảng phải đủ 18 tuổi đến đủ 60 tuổi (tính theo tháng). Việc kết nạp vào Đảng những người trên 60 tuổi do cấp ủy trực thuộc Trung ương xem xét, quyết định.",
+                        "Tại thời điểm chi bộ xét kết nạp, người vào Đảng phải đủ 20 tuổi đến đủ 60 tuổi (tính theo tháng). Việc kết nạp vào Đảng những người trên 60 tuổi do cấp ủy trực thuộc Trung ương xem xét, quyết định."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q2",
+                    "question": "Đồng chí cho biết Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương quy định về trình độ học vấn của người vào Đảng?",
+                    "options": [
+                        "Người vào Đảng phải có bằng tốt nghiệp trung học phổ thông trở lên. Học vấn của người vào Đảng đang sinh sống ở miền núi, hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và những trường hợp cụ thể khác do yêu cầu phát triển đảng mà không bảo đảm được quy định chung thì thực hiện theo hướng dẫn của Ban Bí thư.",
+                        "Người vào Đảng phải có bằng tốt nghiệp tiểu học trở lên. Học vấn của người vào Đảng đang sinh sống ở miền núi, hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và những trường hợp cụ thể khác do yêu cầu phát triển đảng mà không bảo đảm được quy định chung thì thực hiện theo hướng dẫn của Ban Bí thư.",
+                        "Người vào Đảng phải có bằng tốt nghiệp trung học cơ sở trở lên. Học vấn của người vào Đảng đang sinh sống ở miền núi, hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và những trường hợp cụ thể khác do yêu cầu phát triển đảng mà không bảo đảm được quy định chung thì thực hiện theo hướng dẫn của Ban Bí thư."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q3",
+                    "question": "Đồng chí cho biết Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương quy định về quyền đảng viên?",
+                    "options": [
+                        "1. Quyền được thông tin của đảng viên. 2. Quyền của đảng viên trong việc ứng cử, đề cử và bầu cử cơ quan lãnh đạo các cấp của Đảng. 3. Quyền của đảng viên trong việc phê bình, chất vấn tổ chức đảng và đảng viên; báo cáo, kiến nghị với cơ quan có trách nhiệm. 4. Đảng viên được tổ chức đảng bảo vệ quyền, lợi ích hợp pháp, chính đáng. 5. Đảng viên được thông báo ý kiến nhận xét của cấp ủy nơi làm việc và nơi cư trú khi xem xét bổ nhiệm, giới thiệu ứng cử; được trình bày ý kiến với tổ chức Đảng, cấp ủy đảng khi xem xét, quyết định công tác hoặc thi hành kỷ luật đối với mình.",
+                        "1. Quyền được thông tin của đảng viên. 2. Quyền của đảng viên trong việc bầu cử cơ quan lãnh đạo các cấp của Đảng. 3. Quyền của đảng viên trong việc phê bình, chất vấn tổ chức đảng và đảng viên; báo cáo, kiến nghị với cơ quan có trách nhiệm. 4. Đảng viên được tổ chức đảng bảo vệ quyền, lợi ích hợp pháp, chính đáng. 5. Đảng viên được thông báo ý kiến nhận xét của cấp ủy nơi làm việc và nơi cư trú khi xem xét bổ nhiệm, giới thiệu ứng cử; được trình bày ý kiến với tổ chức Đảng, cấp ủy đảng khi xem xét, quyết định công tác hoặc thi hành kỷ luật đối với mình.",
+                        "1. Quyền được thông tin, phát ngôn của đảng viên. 2. Quyền của đảng viên trong việc đề cử và bầu cử cơ quan lãnh đạo các cấp của Đảng. 3. Quyền của đảng viên trong việc phê bình, chất vấn tổ chức đảng và đảng viên; báo cáo, kiến nghị với cơ quan có trách nhiệm. 4. Đảng viên được tổ chức đảng bảo vệ quyền, lợi ích hợp pháp, chính đáng. 5. Đảng viên được thông báo ý kiến nhận xét của cấp ủy nơi làm việc và nơi cư trú khi xem xét bổ nhiệm, giới thiệu ứng cử; được trình bày ý kiến với tổ chức Đảng, cấp ủy đảng khi xem xét, quyết định công tác hoặc thi hành kỷ luật đối với mình."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q4",
+                    "question": "Đồng chí cho biết Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương quy định về tập thể giới thiệu người vào Đảng?",
+                    "options": [
+                        "Ban chấp hành Đoàn Thanh niên Cộng sản Hồ Chí Minh cơ sở hoặc tập thể chi đoàn cơ sở; ban chấp hành công đoàn cơ sở xem xét, ra nghị quyết giới thiệu đoàn viên vào Đảng.",
+                        "Đoàn Thanh niên Cộng sản Hồ Chí Minh cơ sở; ban chấp hành công đoàn cơ sở xem xét, ra nghị quyết giới thiệu đoàn viên vào Đảng.",
+                        "Tổ chức quần chúng cơ sở xem xét, ra nghị quyết giới thiệu đoàn viên vào Đảng."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q5",
+                    "question": "Đồng chí cho biết Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương quy định về thời hạn tổ chức lễ kết nạp đảng viên?",
+                    "options": [
+                        "Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được quyết định kết nạp đảng viên của cấp ủy có thẩm quyền, chi bộ phải tổ chức lễ kết nạp cho đảng viên. Nếu để quá thời hạn nêu trên phải báo cáo và được cấp ủy cấp trên trực tiếp đồng ý.",
+                        "Trong thời hạn 20 ngày làm việc, kể từ ngày nhận được quyết định kết nạp đảng viên của cấp ủy có thẩm quyền, chi bộ phải tổ chức lễ kết nạp cho đảng viên. Nếu để quá thời hạn nêu trên phải báo cáo và được cấp ủy cấp trên trực tiếp đồng ý.",
+                        "Trong thời hạn 30 ngày làm việc, kể từ ngày nhận được quyết định kết nạp đảng viên của cấp ủy có thẩm quyền, chi bộ phải tổ chức lễ kết nạp cho đảng viên. Nếu để quá thời hạn nêu trên phải báo cáo và được cấp ủy cấp trên trực tiếp đồng ý."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q6",
+                    "question": "Đồng chí cho biết Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương; quy định về thời điểm công nhận đảng viên chính thức?",
+                    "options": [
+                        "Trong thời hạn 30 ngày làm việc, kể từ ngày đảng viên hết 12 tháng dự bị, chi bộ phải xét và đề nghị công nhận chính thức cho đảng viên; nếu không đủ điều kiện công nhận là đảng viên chính thức thì đề nghị lên cấp ủy có thẩm quyền quyết định xoá tên.",
+                        "Trong thời hạn 15 ngày làm việc, kể từ ngày đảng viên hết 12 tháng dự bị, chi bộ phải xét và đề nghị công nhận chính thức cho đảng viên; nếu không đủ điều kiện công nhận là đảng viên chính thức thì đề nghị lên cấp ủy có thẩm quyền quyết định xoá tên.",
+                        "Trong thời hạn 10 ngày làm việc, kể từ ngày đảng viên hết 12 tháng dự bị, chi bộ phải xét và đề nghị công nhận chính thức cho đảng viên; nếu không đủ điều kiện công nhận là đảng viên chính thức thì đề nghị lên cấp ủy có thẩm quyền quyết định xoá tên."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q7",
+                    "question": "Đồng chí cho biết theo Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương; quy định về phát thẻ đảng viên?",
+                    "options": [
+                        "Thẻ đảng viên được phát cho đảng viên chính thức, chi bộ tổ chức phát thẻ cho đảng viên trong kỳ sinh hoạt chi bộ gần nhất, sau khi có quyết định của cấp có thẩm quyền.",
+                        "Thẻ đảng viên được phát cho đảng viên dự bị, chi bộ tổ chức phát thẻ cho đảng viên trong kỳ sinh hoạt chi bộ gần nhất, sau khi có quyết định của cấp có thẩm quyền.",
+                        "Thẻ đảng viên được phát cho đảng viên chính thức, đảng ủy tổ chức phát thẻ cho đảng viên trong kỳ sinh hoạt chi bộ gần nhất, sau khi có quyết định của cấp có thẩm quyền."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q8",
+                    "question": "Đồng chí cho biết theo Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương; quy định về sử dụng thẻ đảng viên?",
+                    "options": [
+                        "Đảng viên được nhận thẻ đảng viên phải thực hiện đúng quy định về sử dụng và bảo quản thẻ, khi mất hoặc làm hỏng thẻ phải báo ngay với cấp ủy để xét cấp lại hoặc đổi thẻ đảng viên. Đảng viên sử dụng thẻ đảng viên trong đại hội đảng các cấp (trừ các trường hợp biểu quyết bằng phiếu kín).",
+                        "Đảng viên được nhận thẻ đảng viên phải thực hiện đúng quy định về sử dụng và bảo quản thẻ, khi mất hoặc làm hỏng hoặc thẻ bị cũ phải báo ngay với cấp ủy để xét cấp lại hoặc đổi thẻ đảng viên. Đảng viên sử dụng thẻ đảng viên để biểu quyết, bầu cử trong sinh hoạt đảng, trong đại hội đảng các cấp (trừ các trường hợp biểu quyết bằng phiếu kín).",
+                        "Đảng viên được nhận thẻ đảng viên phải thực hiện đúng quy định về sử dụng và bảo quản thẻ, khi mất hoặc làm hỏng thẻ phải báo ngay với cấp ủy để xét cấp lại hoặc đổi thẻ đảng viên. Đảng viên sử dụng thẻ đảng viên để biểu quyết trong sinh hoạt đảng, trong đại hội đảng các cấp (trừ các trường hợp biểu quyết bằng phiếu kín)."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q9",
+                    "question": "Đồng chí cho biết theo Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương; đảng viên xin miễn công tác và sinh hoạt đảng được quy định như thế nào?",
+                    "options": [
+                        "Đảng viên tuổi cao, sức khỏe yếu không thể tham gia sinh hoạt đảng được, tự làm đơn hoặc trực tiếp báo cáo với chi bộ xin giảm, miễn công tác và sinh hoạt đảng. Chi ủy, hoặc bí thư chi bộ báo cáo cấp ủy cấp trên xem xét quyết định.",
+                        "Đảng viên tuổi cao, sức khỏe yếu không thể tham gia sinh hoạt đảng được, tự làm đơn hoặc trực tiếp báo cáo với chi bộ xin giảm, miễn công tác và sinh hoạt đảng, chi bộ xem xét, quyết định. Chi ủy, hoặc bí thư chi bộ báo cáo cấp ủy cấp trên trực tiếp biết.",
+                        "Đảng viên tuổi cao, sức khỏe yếu không thể tham gia sinh hoạt đảng được, tự làm đơn hoặc trực tiếp báo cáo với chi bộ xin giảm, miễn công tác và sinh hoạt đảng. Chi ủy, hoặc bí thư chi bộ báo cáo cấp ủy cấp trên trình cấp ủy cơ sở xem xét quyết định."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q10",
+                    "question": "Đồng chí cho biết điều kiện để sinh hoạt chi bộ ra nghị quyết lãnh đạo thực hiện nhiệm vụ tháng?",
+                    "options": [
+                        "Đổi với chi bộ có chi ủy phải có trên 80% đảng viên chính thức tham gia; chi bộ không có chi ủy phải có trên 2/3 đảng viên chính thức tham gia.",
+                        "Đổi với chi bộ có chi ủy phải có trên 85% đảng viên chính thức tham gia; chi bộ không có chi ủy phải có trên 2/3 đảng viên chính thức tham gia.",
+                        "Đổi với chi bộ có chi ủy phải có trên 90% đảng viên chính thức tham gia; chi bộ không có chi ủy phải có trên 2/3 đảng viên chính thức tham gia."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q11",
+                    "question": "Đảng viên bỏ sinh hoạt đảng hoặc không đóng đảng phí 3 tháng trong năm, không có lý do chính đảng thì áp dụng hình thức kỷ luật như thế nào?",
+                    "options": [
+                        "Kỷ luật bằng hình thức cảnh cáo",
+                        "Kỷ luật bằng hình thức xóa tên",
+                        "Kỷ luật bằng hình thức khai trừ"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q12",
+                    "question": "Tại hội nghị chi bộ kiểm điểm, đánh giá, xếp loại chất lượng tổ chức đảng và đảng viên năm 2025. Đảng viên A mới kết nạp được 2 tháng thì?",
+                    "options": [
+                        "Miễn đánh giá, xếp loại",
+                        "Xếp loại hoàn thành nhiệm vụ",
+                        "Xếp loại hoàn thành tốt nhiệm vụ"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q13",
+                    "question": "Đồng chí cho biết thời gian chi bộ tổ chức sinh hoạt ra nghị quyết lãnh đạo nhiệm vụ trọng tâm trong tháng là?",
+                    "options": [
+                        "Trước ngày 05 hằng tháng",
+                        "Trước ngày 07 hằng tháng",
+                        "Trước ngày 10 hằng tháng"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q14",
+                    "question": "Đồng chí cho biết theo Quy định số 294-QĐ/TW ngày 26/5/2025 của BCH Trung ương khi đảng viên chuyển sinh hoạt đảng chính thức thi việc báo cáo hồ sơ đảng với tổ chức đảng nơi tiếp nhận do ai thực hiện?",
+                    "options": [
+                        "Do bí thư chi bộ nơi đảng viên chuyển đi thực hiện",
+                        "Do tổ trưởng đảng nơi đảng viên chuyển đi thực hiện",
+                        "Do đảng viên được chuyển sinh hoạt đảng trực tiếp thực hiện."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q15",
+                    "question": "Đồng chí cho biết theo Hướng dẫn số 569/HD-CT ngày 05/5/2011 của Tổng cục Chính trị cách tính đảng phí đối với đảng viên được thực hiện như thế nào?",
+                    "options": [
+                        "Đảng viên là sĩ quan, QNCN mức đóng đảng phí bằng 1% lương theo cấp quân hàm (đối với sĩ quan), bậc lượng (đối với QNCN) cộng với phụ cấp thâm niên, phụ cấp chức vụ, phụ cấp thâm niên vượt khung, phụ cấp bảo lưu  (nếu có) .",
+                        "Đảng viên là sĩ quan, QNCN mức đóng đảng phí bằng 1% lương theo cấp quân hàm (đối với sĩ quan), bậc lượng (đối với QNCN).",
+                        "Đảng viên là sĩ quan, QNCN mức đóng đảng phí bằng 0,5% lương theo cấp quân hàm (đối với sĩ quan), bậc lượng (đối với QNCN) cộng với phụ cấp thâm niên, phụ cấp chức vụ, phụ cấp thâm niên vượt khung, phụ cấp bảo lưu  (nếu có) ."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q16",
+                    "question": "Đồng chí cho biết nhiệm vụ, giải pháp thứ nhất theo Nghị quyết 57-NQ/TW của Bộ Chính trị về đột phá phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia?",
+                    "options": [
+                        "Khẩn trương, quyết liệt hoàn thiện thể chế; xóa bỏ mọi tư tưởng, quan niệm, rào cản đang cản trở sự phát triển; đưa thể chế thành một lợi thế cạnh tranh trong phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+                        "Nâng cao nhận thức, đột phá về đổi mới tư duy, xác định quyết tâm chính trị mạnh mẽ, quyết liệt lãnh đạo, chỉ đạo tạo xung lực mới, khí thế mới trong toàn xã hội về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia",
+                        "Tăng cường đầu tư, hoàn thiện hạ tầng cho khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia",
+                        "Thúc đẩy mạnh mẽ hoạt động khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số trong doanh nghiệp"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q17",
+                    "question": "Để triển khai Nghị quyết 57, ngày 29/01/2025, Quân ủy Trung ương ban hành nghị quyết nào?",
+                    "options": [
+                        "3844-NQ/QUTW",
+                        "3488-NQ/QUTW",
+                        "3480-NQ/QUTW",
+                        "3884-NQ/QUTW"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q18",
+                    "question": "Đồng chí hãy cho biết một trong những nội dung cơ bản của Nghị quyết số 60-NQ/TW của Ban chấp hành Trung ương Đảng khóa XIII?",
+                    "options": [
+                        "Đề xuất sáp nhập đơn vị hành chính cấp tỉnh và tổ chức lại chính quyền địa phương theo mô hình hai cấp",
+                        "Thúc đẩy hợp tác quốc tế về công nghệ và đổi mới sáng tạo",
+                        "Đổi mới công tác xây dựng và thi hành pháp luật đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên mới",
+                        "Phát triển kinh tế tư nhân trở thành động lực quan trọng của nền kinh tế thị trường định hướng XHCN"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q19",
+                    "question": "Đồng chí hãy cho biết nội dung của Nghị quyết số 66-NQ/TW của Bộ Chính trị?",
+                    "options": [
+                        "Đề xuất sáp nhập đơn vị hành chính cấp tỉnh và tổ chức lại chính quyền địa phương theo mô hình hai cấp",
+                        "Thúc đẩy hợp tác quốc tế về công nghệ và đổi mới sáng tạo",
+                        "Đổi mới công tác xây dựng và thi hành pháp luật đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên mới",
+                        "Phát triển kinh tế tư nhân trở thành động lực quan trọng của nền kinh tế thị trường định hướng XHCN"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q20",
+                    "question": "Đồng chí hãy cho biết nội dung của Nghị quyết số 68-NQ/TW của Bộ Chính trị?",
+                    "options": [
+                        "Đề xuất sáp nhập đơn vị hành chính cấp tỉnh và tổ chức lại chính quyền địa phương theo mô hình hai cấp",
+                        "Thúc đẩy hợp tác quốc tế về công nghệ và đổi mới sáng tạo",
+                        "Đổi mới công tác xây dựng và thi hành pháp luật đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên mới",
+                        "Phát triển kinh tế tư nhân"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q21",
+                    "question": "Nghị quyết 847-NQ/QUTW của Quân uỷ Trung ương xác định bao nhiêu đặc trưng cơ bản của phẩm chất “Bộ đội Cụ Hồ”?",
+                    "options": [
+                        "3 đặc trưng cơ bản.",
+                        "4 đặc trưng cơ bản.",
+                        "5 đặc trưng cơ bản.",
+                        "6 đặc trưng cơ bản."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q22",
+                    "question": "Một trong những đặc trưng cơ bản của phẩm chất “Bộ đội Cụ Hồ” theo Nghị quyết 847-NQ/QUTW của Quân uỷ Trung ương?",
+                    "options": [
+                        "Tuyệt đối trung thành với Tổ quốc, với Đảng, Nhà nước và nhân dân. Kiên định lập trường chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, mục tiêu độc lập dân tộc và chủ nghĩa xã hội. Có ý chí quyết tâm chiến đấu cao, chấp nhận hy sinh, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao.",
+                        "Tuyệt đối trung thành với Tổ quốc, với Đảng, Nhà nước và nhân dân. Kiên định lập trường chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, mục tiêu độc lập dân tộc và chủ nghĩa xã hội. Có ý chí quyết tâm chiến đấu cao, chấp nhận hy sinh, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao.",
+                        "Tuyệt đối trung thành với Tổ quốc, với Đảng, Nhà nước và nhân dân. Kiên định lập trường chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và chủ nghĩa xã hội. Có ý chí quyết tâm chiến đấu cao, chấp nhận hy sinh, vượt qua khó khăn, gian khổ, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao.",
+                        "Tuyệt đối trung thành với Tổ quốc, với Đảng, Nhà nước và nhân dân. Kiên định lập trường chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, mục tiêu độc lập dân tộc và chủ nghĩa xã hội. Có ý chí quyết tâm chiến đấu cao, chấp nhận hy sinh, vượt qua khó khăn, gian khổ, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q23",
+                    "question": "Nghị quyết 847-NQ/QUTW của Quân uỷ Trung ương xác định bao nhiêu biểu hiện của chủ nghĩa cá nhân?",
+                    "options": [
+                        "8.",
+                        "9.",
+                        "10.",
+                        "11."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q24",
+                    "question": "Đâu là biểu hiện của chủ nghĩa cá nhân được Quân uỷ Trung ương xác định trong Nghị quyết 847-NQ/QUTW?",
+                    "options": [
+                        "- Thiếu trách nhiệm với tập thể, không chấp hành sự phân công, điều động của tổ chức, kén chọn chức danh, vị trí công tác, đùn đẩy trách nhiệm thoái thác nhiệm vụ, không tận tâm, tận lực với công việc, không sẵn sàng hy sinh vì sự nghiệp cách mạng. - Thổi phồng thành tích, “đánh bóng” tên tuổi; sợ trách nhiệm, tranh công, giấu diếm, bao che và không trung thực về những khuyết điểm, sai phạm.",
+                        "- Thiếu ý thức và trách nhiệm với tập thể, không chấp hành sự phân công, điều động của tổ chức, kén chọn chức danh, vị trí công tác, đùn đẩy trách nhiệm thoái thác nhiệm vụ, không tận tâm, tận lực với công việc, không sẵn sàng hy sinh vì sự nghiệp cách mạng. - Thổi phồng thành tích, “đánh bóng” tên tuổi; sợ trách nhiệm, tranh công, đổ lỗi; giấu diếm, bao che và không trung thực về những khuyết điểm, sai phạm.",
+                        "- Thiếu trách nhiệm với tập thể, không chấp hành sự phân công, điều động của tổ chức, kén chọn chức danh, vị trí công tác, đùn đẩy trách nhiệm thoái thác nhiệm vụ, không tận tâm, tận lực với công việc, không sẵn sàng hy sinh vì sự nghiệp cách mạng. - Thổi phồng thành tích, “đánh bóng” tên tuổi; sợ trách nhiệm, tranh công, giấu diếm, bao che và không trung thực về những khuyết điểm, sai phạm.",
+                        "- Thiếu ý thức và trách nhiệm với tập thể, không chấp hành sự phân công, điều động của tổ chức, kén chọn chức danh, vị trí công tác, đùn đẩy trách nhiệm thoái thác nhiệm vụ, không tận lực với công việc, không sẵn sàng hy sinh vì sự nghiệp cách mạng. - Thổi phồng thành tích, “đánh bóng” tên tuổi; sợ trách nhiệm, tranh công, giấu diếm, bao che và không trung thực về những khuyết điểm, sai phạm."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q25",
+                    "question": "Đâu là biểu hiện của chủ nghĩa cá nhân được Quân uỷ Trung ương xác định trong Nghị quyết 847-NQ/QUTW?",
+                    "options": [
+                        "- Không quan tâm đến lợi ích chung, làm việc gì cũng chỉ mưu cầu cho lợi ích cá nhân; sống ích kỷ, thực dụng, cơ hội, vụ lợi; ganh ghét, đố kị, so bì, tị nạnh, không muốn người khác hơn mình. - Háo danh, tự cao, tự đại, thích được ca ngợi, sùng bái bản thân, tham vọng quyền lực, địa vị; chạy chức, chạy quyền, chạy thành tích, chạy tội, mua và sử dụng bằng cấp giả, giấy tờ giả; tìm mọi cách để vận động, tác động, tranh thủ phiếu bầu, phiếu tín nhiệm cho mình.",
+                        "- Không quan tâm đến lợi ích chung, làm việc gì cũng chỉ mưu cầu cho lợi ích cá nhân; sống ích kỷ, thực dụng, cơ hội; ganh ghét, đố kị, so bì, tị nạnh, không muốn người khác hơn mình. - Háo danh, thích được ca ngợi, sùng bái bản thân, tham vọng quyền lực, địa vị; chạy chức, chạy quyền, chạy thành tích, chạy tội, mua và sử dụng bằng cấp giả, giấy tờ giả; tìm mọi cách để vận động, tác động, tranh thủ phiếu bầu, phiếu tín nhiệm cho mình.",
+                        "- Không quan tâm đến lợi ích chung, làm việc gì cũng chỉ mưu cầu cho lợi ích cá nhân; sống ích kỷ, thực dụng, cơ hội; ganh ghét, đố kị, so bì, tị nạnh, không muốn người khác hơn mình. - Háo danh, tự cao, tự đại, thích được ca ngợi, sùng bái bản thân, địa vị; chạy chức, chạy quyền, chạy thành tích, chạy tội, mua và sử dụng bằng cấp giả, giấy tờ giả; tìm mọi cách để vận động, tác động, tranh thủ phiếu bầu, phiếu tín nhiệm cho mình.",
+                        "- Không quan tâm đến lợi ích chung, làm việc gì cũng chỉ mưu cầu cho lợi ích cá nhân; sống ích kỷ, thực dụng, vụ lợi; ganh ghét, đố kị, so bì, tị nạnh, không muốn người khác hơn mình. - Háo danh, tự cao, tự đại, thích được ca ngợi, sùng bái bản thân, tham vọng quyền lực, địa vị; chạy chức, chạy quyền, chạy tội, mua và sử dụng bằng cấp giả, giấy tờ giả; tìm mọi cách để vận động, tác động, tranh thủ phiếu bầu, phiếu tín nhiệm cho mình."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q26",
+                    "question": "Đồng chí cho biết Nghị quyết 847-NQ/QUTW của Quân uỷ Trung ương về phát huy phẩm chất “Bộ đội Cụ Hồ”, kiên quyết chống chủ nghĩa cá nhân được ban hành ngày tháng năm nào?",
+                    "options": [
+                        "26/12/2021.",
+                        "27/12/2021.",
+                        "28/12/2021.",
+                        "29/12/2021."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q27",
+                    "question": "Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa XIII) đã ban hành Kết luận số 21-KL/TW ngày 25/10/2021 về nội dung gì?",
+                    "options": [
+                        "Đẩy mạnh xây dựng, chỉnh đốn đảng; kiên quyết ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “tự diễn biến”, “tự chuyển hoá”.",
+                        "Đẩy mạnh xây dựng, chỉnh đốn đảng và hệ thống chính trị; ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “tự diễn biến”, “tự chuyển hoá”.",
+                        "Đẩy mạnh xây dựng, chỉnh đốn đảng và hệ thống chính trị; kiên quyết ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “tự diễn biến”, “tự chuyển hoá”.",
+                        "Đẩy mạnh xây dựng, chỉnh đốn đảng và hệ thống chính trị; kiên quyết đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “tự diễn biến”, “tự chuyển hoá”."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q28",
+                    "question": "Đồng chí cho biết Kết luận số 21-KL/TW của Ban Chấp hành Trung ương về đẩy mạnh xây dựng chỉnh đốn Đảng và hệ thống chính trị; kiên quyết ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “tự diễn biến”, “tự chuyển hóa” được ban hành ngày, tháng năm nào?",
+                    "options": [
+                        "25/10/2020.",
+                        "25/11/2020.",
+                        "25/10/2021.",
+                        "25/11/2021."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q29",
+                    "question": "Kết luận số 01-KL/TW ngày 18/5/2021 của Bộ Chính trị nói về vấn đề gì?",
+                    "options": [
+                        "Về tiếp tục thực hiện Chỉ thị số 05-CT/TW của Bộ Chính trị \"Về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh\".",
+                        "Về xây dựng Đảng và hệ thống chính trị, ngăn chặn “tự diễn biến”, “tự chuyển hóa” trong nội bộ.",
+                        "Về tiếp tục học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh trong giai đoạn mới.",
+                        "Về đẩy mạnh xây dựng chỉnh đốn Đảng và hệ thống chính trị; kiên quyết ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “tự diễn biến”, “tự chuyển hóa”."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q30",
+                    "question": "Quy định số 37-QĐ/TW ngày 25/10/2021 của Ban Chấp hành Trung ương Đảng về những điều đảng viên không được làm gồm bao nhiêu điều?",
+                    "options": [
+                        "15 điều",
+                        "19 điều",
+                        "21 điều",
+                        "27 điều"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q31",
+                    "question": "Quy định số 144-QĐ/TW, ngày 09 tháng 5 năm 2024 của Bộ Chính trị quy định nội dung gì?",
+                    "options": [
+                        "Chuẩn mực đạo đức cách mạng của cán bộ, chiến sĩ trong giai đoạn mới",
+                        "Phẩm chất đạo đức cách mạng của cán bộ, đảng viên trong giai đoạn mới",
+                        "Chuẩn mực đạo đức cách mạng của cán bộ, đảng viên trong giai đoạn mới",
+                        "Phẩm chất đạo đức cách mạng của cán bộ, chiến sĩ trong giai đoạn mới"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q32",
+                    "question": "Điều 1 theo Quy định số 144-QĐ/TW, ngày 09 tháng 5 năm 2024 của Bộ Chính trị?",
+                    "options": [
+                        "Yêu nước, tôn trọng Nhân dân, tuyệt đối trung thành với Đảng, với Tổ quốc",
+                        "Tuyệt đối trung thành với Đảng, với Tổ quốc và Nhân dân",
+                        "Yêu nước, yêu chủ nghĩa xã hội, tuyệt đối trung thành với Đảng, với Tổ quốc",
+                        "Tuyệt đối trung thành với Đảng, với Tổ quốc và Nhân dân, kiên định con đường đi lên chủ nghĩa xã hội"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q33",
+                    "question": "Điều 4 theo Quy định số 144-QĐ/TW, ngày 09 tháng 5 năm 2024 của Bộ Chính trị?",
+                    "options": [
+                        "Đoàn kết, tình thương, trách nhiệm, kỷ cương",
+                        "Đoàn kết, kỷ cương, tình thương, trách nhiệm",
+                        "Đoàn kết, kỷ cương, nêu gương, trách nhiệm",
+                        "Đoàn kết, kỷ cương, trách nhiệm, nêu gương"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q34",
+                    "question": "Đồng chí cho biết chỉ tiêu kiểm tra nhận thức chính trị theo Tiêu chuẩn 1: Vững mạnh về chính trị theo Chỉ thị số 79/CT-BQP ngày 22/7/2022 của Bộ trưởng Bộ Quốc phòng?",
+                    "options": [
+                        "Kiểm tra nhận thức chính trị 100% đạt yêu cầu, trong đó có 70% trở lên khá, giỏi",
+                        "Kiểm tra nhận thức chính trị 100% đạt yêu cầu, trong đó có 85% trở lên khá, giỏi",
+                        "Kiểm tra nhận thức chính trị 100% đạt yêu cầu, trong đó có 80% trở lên khá, giỏi",
+                        "Kiểm tra nhận thức chính trị 100% đạt yêu cầu, trong đó có 75% trở lên khá, giỏi"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q35",
+                    "question": "Đồng chí cho biết chỉ tiêu xây dựng tổ chức đảng theo Tiêu chuẩn 1: Vững mạnh về chính trị trong Chỉ thị số 79/CT-BQP ngày 22/7/2022 của Bộ trưởng Bộ Quốc phòng?",
+                    "options": [
+                        "Tổ chức đảng đạt trong sạch vững mạnh, không có đảng viên vi phạm kỷ luật phải đưa ra khỏi đảng. Các tổ chức quần chúng thường xuyên đạt tiêu chuẩn vững mạnh",
+                        "Tổ chức đảng hoàn thành xuất sắc nhiệm vụ; đối với đảng bộ phải có 100% cấp ủy, tổ chức đảng trực thuộc hoàn thành nhiệm vụ, trong đó có từ 90% hoàn thành tốt nhiệm vụ trở lên; đối với chi bộ phải có 100% đảng viên hoàn thành nhiệm vụ, trong đó có từ 95% hoàn thành tốt nhiệm vụ trở lên Các tổ chức quần chúng hoàn thành xuất sắc nhiệm vụ; có 100% tổ chức trực thuộc, đoàn viên, hội viên hoàn thành nhiệm vụ, trong đó có từ 100% hoàn thành tốt nhiệm vụ trở lên.",
+                        "Tổ chức đảng hoàn thành xuất sắc nhiệm vụ; đối với đảng bộ phải có 100% cấp ủy, tổ chức đảng trực thuộc hoàn thành nhiệm vụ, trong đó có từ 80% hoàn thành tốt nhiệm vụ trở lên; đối với chi bộ phải có 100% đảng viên hoàn thành nhiệm vụ, trong đó có từ 80% hoàn thành tốt nhiệm vụ trở lên."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q36",
+                    "question": "Đồng chí hãy cho biết theo Thông tư 165/2018/TT-BQP ngày 01/12/2018 của Bộ Quốc phòng quy định số lượng ủy viên HĐQN tại các cơ quan, đơn vị như thế nào?",
+                    "options": [
+                        "Cơ quan, đơn vị có quân số 60 người trở xuống bầu từ 05 đến 07 ủy viên; trên 60 người bầu không quá 09 ủy viên.",
+                        "Cơ quan, đơn vị có quân số 60 người trở xuống bầu từ 03 đến 05 ủy viên; trên 60 người bầu không quá 09 ủy viên.",
+                        "Cơ quan, đơn vị có quân số 60 người trở xuống bầu từ 03 đến 05 ủy viên; trên 60 người bầu không quá 07 ủy viên."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q37",
+                    "question": "Điều 23 của Quy định số 367-QĐ/TW ngày 04/9/2025 của Bộ Chính trị quy định một số vấn đề bảo vệ chính trị nội bộ Đảng. Nói về vấn đề gì?",
+                    "options": [
+                        "Những vấn đề liên quan tới chủ nghĩa cá nhân, cơ hội chính trị.",
+                        "Những trường hợp cán bộ, đảng viên không được ra nước ngoài.",
+                        "Bố trí, sử dụng cán bộ, đảng viên có người thân có quốc tịch nước ngoài hoặc vi phạm pháp luật hình sự."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q38",
+                    "question": "Điều 17 của Quy định số 367-QĐ/TW ngày 04/9/2025 của Bộ Chính trị quy định một số vấn đề bảo vệ chính trị nội bộ Đảng. Nói về vấn đề gì?",
+                    "options": [
+                        "Những vấn đề liên quan tới chủ nghĩa cá nhân, cơ hội chính trị.",
+                        "Những trường hợp cán bộ, đảng viên không được ra nước ngoài.",
+                        "Phong, thăng quân hàm cấp tướng trong lực lượng vũ trang đối với các trường hợp có vấn đề chính trị vi phạm, phức tạp hoặc có người thân có quốc tịch nước ngoài."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q39",
+                    "question": "Theo đồng chí nội dung tiêu chí đánh giá kết quả hoạt động công tác đảng, công tác chính trị trong Quân đội theo quy định hiện hành gồm những nội dung nào sau đây?",
+                    "options": [
+                        "Công tác lãnh đạo, chỉ đạo hoạt động công tác đảng, công tác chính trị",
+                        "Kết quả thực hiện các mặt hoạt động công tác đảng, công tác chính trị (Công tác Tuyên huấn; Tổ chức xây dựng Đảng; Cán bộ;Kiểm tra, giám sát và kỷ luật Đảng; Bảo vệ an ninh; Dân vận; Chính sách; Bảo hiểm xã hội, bảo hiểm y tế; quần chúng; quản lý, sử dụng ngân sách, trang bị, vật tư, xăng dầu; hoạt động khoa học, công nghệ và môi trường; công tác đối ngoại quốc phòng).",
+                        "Thực hiện các chế độ nền nếp hoạt động công tác đảng, công tác chính trị; xây dựng cơ quan chính trị và đội ngũ cán bộ chính trị.",
+                        "Cả 3 đáp án trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q40",
+                    "question": "Điều 7 của Quy định số 367-QĐ/TW ngày 04/9/2025 của Bộ Chính trị quy định một số vấn đề bảo vệ chính trị nội bộ Đảng. Nói về vấn đề gì?",
+                    "options": [
+                        "Những vấn đề liên quan tới chủ nghĩa cá nhân, cơ hội chính trị.",
+                        "Những trường hợp cán bộ, đảng viên không được ra nước ngoài.",
+                        "Bố trí, sử dụng cán bộ, đảng viên có người thân có quốc tịch nước ngoài hoặc vi phạm pháp luật hình sự."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q41",
+                    "question": "Quy chế công tác dân vận của hệ thống chính trị (kèm thao Quyết định số 23-QĐ/TW, ngày 30/7/2021, gồm mấy chương, mấy điều?",
+                    "options": [
+                        "Gồm 4 chương, 28 điều",
+                        "Gồm 3 chương, 27 điều",
+                        "Gồm 6 chương, 26 điều",
+                        "Gồm 4 chương, 38 điều"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q42",
+                    "question": "Quy chế công tác dân vận của Quân đội nhân dân Việt Nam gồm bao nhiêu chương, bao nhiêu điều?",
+                    "options": [
+                        "Gồm 6 chương, 25 điều",
+                        "Gồm 7 chương, 25 điều",
+                        "Gồm 5 chương, 28 điều",
+                        "Gồm 8 chương, 26 điều"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q43",
+                    "question": "Điều 16 của Quy định số 367-QĐ/TW ngày 04/9/2025 của Bộ Chính trị quy định một số vấn đề bảo vệ chính trị nội bộ Đảng. Nói về vấn đề gì?",
+                    "options": [
+                        "Những vấn đề liên quan tới chủ nghĩa cá nhân, cơ hội chính trị.",
+                        "Những trường hợp cán bộ, đảng viên không được ra nước ngoài.",
+                        "Bố trí, sử dụng cán bộ, đảng viên có người thân có quốc tịch nước ngoài hoặc vi phạm pháp luật hình sự."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q44",
+                    "question": "Quy định số 367-QĐ/TW ngày 04/9/2025 của Bộ Chính trị quy định một số vấn đề bảo vệ chính trị nội bộ Đảng. Gồm mấy chương, mấy điều?",
+                    "options": [
+                        "Gồm 6 chương, 22 điều",
+                        "Gồm 6 chương, 26 điều",
+                        "Gồm 5 chương, 22 điều",
+                        "Gồm 7 chương, 22 điều"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q45",
+                    "question": "Thông tư số 263/2013/TT-BQP ngày 31/12/2013 của BQP quy định về cơ quan, đơn vị và vị trí trọng yếu, cơ mật trong quân đội. Gồm mấy chương, mấy điều?",
+                    "options": [
+                        "Gồm 5 chương, 18 điều",
+                        "Gồm 5 chương, 20 điều",
+                        "Gồm 6 chương, 18 điều",
+                        "Gồm 6 chương, 17 đièu"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q46",
+                    "question": "Khi có dấu hiệu vi phạm của đảng viên là cấp ủy viên cùng cấp, cơ quan nào có thẩm quyền quyết định kiểm tra?",
+                    "options": [
+                        "Ủy ban kiểm tra cùng cấp.",
+                        "Cấp ủy cùng cấp.",
+                        "Ủy ban kiểm tra cấp trên trực tiếp.",
+                        "Đảng ủy cấp trên trực tiếp."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q47",
+                    "question": "Khi kiểm tra có dấu hiệu vi phạm, kết luận của ủy ban kiểm tra phải bảo đảm nguyên tắc nào?",
+                    "options": [
+                        "Kết luận dựa trên đa số phiếu của đoàn kiểm tra.",
+                        "Căn cứ hồ sơ, chứng cứ, đối chiếu quy định của Đảng, kết luận theo tập thể ủy ban.",
+                        "Căn cứ ý kiến thống nhất của cấp ủy quản lý đảng viên vi phạm.",
+                        "Dựa vào đề xuất của trưởng đoàn kiểm tra để báo cáo cấp ủy quyết định."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q48",
+                    "question": "Trong giám sát tổ chức đảng cấp dưới, khi phát hiện dấu hiệu vi phạm, cơ quan giám sát cần làm gì đầu tiên?",
+                    "options": [
+                        "Báo cáo cấp ủy cùng cấp để xin ý kiến chỉ đạo.",
+                        "Chuyển sang kiểm tra khi có dấu hiệu vi phạm, nếu đủ căn cứ.",
+                        "Tiếp tục giám sát để củng cố thông tin, tránh kết luận vội.",
+                        "Đề nghị cơ quan kiểm tra cấp trên trực tiếp thực hiện kiểm tra."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q49",
+                    "question": "Trong quá trình thi hành kỷ luật, tổ chức đảng được quyền công bố quyết định kỷ luật trong trường hợp nào sau đây?",
+                    "options": [
+                        "Sau khi có ý kiến đồng ý bằng văn bản của cấp ủy cấp trên.",
+                        "Ngay sau khi ủy ban kiểm tra có kết luận, trước khi thi hành.",
+                        "Khi quyết định kỷ luật đã có hiệu lực và được cấp có thẩm quyền phê chuẩn.",
+                        "Khi tổ chức đảng thống nhất kết quả biểu quyết xử lý vi phạm."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q50",
+                    "question": "Khi tiến hành kiểm tra, giám sát, tổ chức đảng và Ủy ban Kiểm tra các cấp cần căn cứ văn bản nào sau đây?",
+                    "options": [
+                        "Quy định số 30-QĐ/TW, ban hành ngày 26/7/2016 của Ban Chấp hành Trung ương (khóa XII), quy định về việc thi hành Chương VII, Chương VIII của Điều lệ Đảng về công tác kiểm tra, giám sát, kỷ luật đảng .",
+                        "Quy định số 22-QĐ/TW ngày 28/7/2021 của Ban Chấp hành Trung ương quy định về công tác kiểm tra, giám sát và kỷ luật của đảng.",
+                        "Quy định số 296-QĐ/TW của Ban Chấp hành Trung ương và Hướng dẫn số 08-HD/TW của Ban Bí thư về công tác kiểm tra, giám sát và kỷ luật của Đảng.",
+                        "Quy định số 30-QĐ/TW của Ban Chấp hành Trung ương và Hướng dẫn số 08-HD/TW của Ban Bí thư về công tác kiểm tra, giám sát và kỷ luật của Đảng."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q51",
+                    "question": "Nghi định 178/2024/MĐ-CP ngày 31/12/2024 của Chính phủ về nội dung gì:",
+                    "options": [
+                        "Về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị.",
+                        "Về chế độ, chính sách đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị.",
+                        "Về chính sách, chế độ đối với cán bộ, công chức, viên chức và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị.",
+                        "Về chế độ, chính sách đối với cán bộ, công chức, viên chức và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q52",
+                    "question": "Nghị định 151/2016/NĐ-CP ngày 11/11/2016 của Chính phủ về vấn đề gì:",
+                    "options": [
+                        "Quy định chi tiết và hướng dẫn thi hành một số điều về chế độ chính sách của Luật QNCN, công nhân và viên chức quốc phòng.",
+                        "Về hướng dẫn thực hiện chính sách, chế độ đối với các đối tượng thuộc phạm vi quản lý của Bộ Quốc phòng trong thực hiện sắp xếp tổ chức bộ máy.",
+                        "Quy định chi tiết và hướng dẫn thi hành một số điều về chế độ chính sách của Luật sĩ quan",
+                        "Về hướng dẫn thực hiện chế độ, chính sách đối với các đối tượng thuộc phạm vi quản lý của Bộ Quốc phòng trong thực hiện sắp xếp tổ chức bộ máy."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q53",
+                    "question": "Thông tư 56/2025/TT-BQP quy định chế độ nghỉ của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được ban hành ngày tháng năm nào?",
+                    "options": [
+                        "26/6/2025",
+                        "25/6/2025",
+                        "24/6/2025",
+                        "27/6/2025"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q54",
+                    "question": "Theo Thông tư 56/2025/TT-BQP của Bộ quốc phòng, quy định ngoài chế độ nghỉ phép hằng năm quân nhân, công nhân và viên chức quốc phòng được nghỉ phép đặc biệt mỗi lần không quá bao nhiêu ngày",
+                    "options": [
+                        "5 ngày",
+                        "10 ngày",
+                        "15 ngày",
+                        "20 ngày"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q55",
+                    "question": "Theo Luật số 52/2024/QH15 ngày 28/11/2024 của Quốc hội sửa đổi, bổ sung một số điều của Luật sĩ quan QĐND Việt Nam, có hiệu lực từ ngày tháng năm nào",
+                    "options": [
+                        "01/12/2025",
+                        "01/01/2025",
+                        "01/11/2024",
+                        "01/12/2024"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q56",
+                    "question": "Đồng chí cho biết: Theo quy định tại Luật bảo hiểm xã hội 2024, thời gian hưởng chế độ thai sản khi vợ sinh 1 con bằng hình thức sinh thường là?",
+                    "options": [
+                        "Được nghỉ 5 ngày làm việc",
+                        "Được nghỉ 6 ngày làm việc",
+                        "Được nghỉ 7 ngày làm việc",
+                        "Được nghỉ 10 ngày làm việc"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q57",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 869/BQP-TC ngày 11/3/2024 của Bộ Quốc phòng về việc thực hiện chế độ thanh toán tiền nghỉ phép đối với người hưởng lương làm việc trong các cơ quan, đơn vị Quân đội thì người hưởng lương có đủ điều kiện được nghỉ phép hàng năm theo quy định của Bộ Quốc phòng, được Thủ trưởng cơ quan, đơn vị đồng ý cho đi nghỉ phép năm để về thăm gia đình, bố mẹ (cả bên chồng hoặc bên vợ), vợ hoặc chồng, con hoặc thăm quê quán (cả bên chồng hoặc bên vợ) được thanh toán tiền phương tiện đi lại, phụ cấp đi đường trong trường hợp nào?",
+                    "options": [
+                        "Địa bàn đóng quân hoặc địa bàn đi nghỉ phép hoặc cả 02 (hai) có hệ số phụ cấp khu vực từ 0,5 trở lên",
+                        "Địa bàn đóng quân hoặc địa bàn đi nghỉ phép hoặc cả 02 (hai) có hệ số phụ cấp khu vực dưới 0,5 và khoảng cách giữa 02 (hai) địa bàn từ 300 kilômét trở lên",
+                        "Địa bàn đi nghỉ phép có khoảng cách so với địa bàn đóng quân từ 500 kilômét trở lên",
+                        "Cả 03 phương án trên"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q58",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 95/2024/TT-BQP ngày 11/11/2024 của Bộ Quốc phòng về việc Hướng dẫn thực hiện chế độ tiền thưởng đối với các đối tượng hưởng lương từ ngân sách nhà nước thuộc phạm vi quản lý của Bộ Quốc phòng thì mức tiền thưởng đối với các đối tượng (trong năm hưởng lương từ ngân sách nhà nước từ 07 tháng trở lên) được đánh giá, xếp loại hoàn thành xuất sắc nhiệm vụ năm 2025 như thế nào",
+                    "options": [
+                        "Mức thưởng bằng 3,5 lần mức lương cơ sở",
+                        "Mức thưởng bằng 04 lần mức lương cơ sở",
+                        "Mức thưởng bằng 07 lần mức lương cơ sở",
+                        "Mức thưởng bằng 08 lần mức lương cơ sở"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q59",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 95/2024/TT-BQP ngày 11/11/2024 của Bộ Quốc phòng về việc Hướng dẫn thực hiện chế độ tiền thưởng đối với các đối tượng hưởng lương từ ngân sách nhà nước thuộc phạm vi quản lý của Bộ Quốc phòng thì mức tiền thưởng đối với các đối tượng (trong năm hưởng lương từ ngân sách nhà nước từ 07 tháng trở lên) được đánh giá, xếp loại hoàn thành tốt nhiệm vụ năm 2025 như thế nào?",
+                    "options": [
+                        "Mức thưởng bằng 3,5 lần mức lương cơ sở",
+                        "Mức thưởng bằng 04 lần mức lương cơ sở",
+                        "Mức thưởng bằng 07 lần mức lương cơ sở",
+                        "Mức thưởng bằng 08 lần mức lương cơ sở"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q60",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 95/2024/TT-BQP ngày 11/11/2024 của Bộ Quốc phòng về việc Hướng dẫn thực hiện chế độ tiền thưởng đối với các đối tượng hưởng lương từ ngân sách nhà nước thuộc phạm vi quản lý của Bộ Quốc phòng thì mức tiền thưởng đối với các đối tượng (trong năm hưởng lương từ ngân sách nhà nước dưới 07 tháng) được đánh giá, xếp loại hoàn thành nhiệm vụ năm 2025 như thế nào?",
+                    "options": [
+                        "Mức thưởng bằng 1,5 lần mức lương cơ sở",
+                        "Mức thưởng bằng 03 lần mức lương cơ sở",
+                        "Mức thưởng bằng 07 lần mức lương cơ sở",
+                        "Mức thưởng bằng 08 lần mức lương cơ sở"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}
