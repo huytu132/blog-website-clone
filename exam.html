@@ -3,32 +3,71 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Thi trắc nghiệm 40 câu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thi trắc nghiệm</title>
     <link rel="stylesheet" href="./css/exam.css">
 </head>
 
 <body>
+    <!-- ─── Fixed Header ─────────────────────────── -->
     <div id="header">
-        <button class="btn btn-main"><a href="index.html">🏠 Trang chủ</a></button>
-        <button id="menuToggle" class="btn btn-blue">☰</button>
+        <a href="index.html" class="btn btn-ghost">← Trang chủ</a>
+        <div id="exam-info">
+            <span id="exam-title-label"></span>
+        </div>
         <div id="exam-timer">60:00</div>
     </div>
 
-    <div id="quiz"></div>
-
-    <div id="sidebar">
-        <h3>Danh sách câu</h3>
-        <div id="questionNav"></div>
-        <button class="btn btn-main" onclick="submitExam()">Nộp bài</button>
+    <!-- ─── Fixed Progress Bar ───────────────────── -->
+    <div id="progress-wrap">
+        <div id="progress-track">
+            <div id="progress-bar-fill"></div>
+        </div>
+        <span id="progress-text">0 / 0</span>
     </div>
 
+    <!-- ─── Main layout ──────────────────────────── -->
+    <div id="main-layout">
+
+        <!-- Scrollable quiz area -->
+        <div id="quiz"></div>
+
+        <!-- Fixed sidebar -->
+        <aside id="sidebar">
+            <div id="sidebar-header">
+                <span>Câu hỏi</span>
+                <button id="menuToggle" class="btn-icon" aria-label="Đóng menu">✕</button>
+            </div>
+            <div id="questionNav"></div>
+            <div id="sidebar-footer">
+                <button class="btn btn-submit" onclick="submitExam()">Nộp bài</button>
+            </div>
+        </aside>
+    </div>
+
+    <!-- Overlay (mobile) -->
     <div id="overlay"></div>
 
-    <div id="resultModal" class="modal hidden">
-        <div class="modal-content">
-            <h2>Kết quả</h2>
-            <p id="resultText"></p>
-            <button class="btn btn-blue" onclick="closeModal()">Đóng</button>
+    <!-- Floating open sidebar button (mobile) -->
+    <button id="fab-sidebar" onclick="openSidebar()" aria-label="Danh sách câu">☰</button>
+
+    <!-- ─── Modal: Kết quả ────────────────────────── -->
+    <div id="resultModal" class="modal" role="dialog" aria-modal="true">
+        <div class="modal-card">
+            <div class="modal-icon" id="resultIcon">✅</div>
+            <h2 id="resultGrade"></h2>
+            <div class="result-score-big" id="resultScore"></div>
+            <p id="resultPct"></p>
+            <div id="resultActions"></div>
+        </div>
+    </div>
+
+    <!-- ─── Modal: Câu sai ───────────────────────── -->
+    <div id="wrongModal" class="modal" role="dialog" aria-modal="true">
+        <div class="modal-card modal-wide">
+            <h2>📋 Các câu trả lời sai</h2>
+            <div id="wrongList"></div>
+            <button class="btn btn-ghost-dark" onclick="closeWrongModal()" style="margin-top:16px">✕ Đóng</button>
         </div>
     </div>
 

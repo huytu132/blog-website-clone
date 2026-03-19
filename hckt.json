@@ -1,0 +1,1225 @@
+{
+    "title": "3. Bộ 120 câu hỏi ngành HCKT",
+    "description": "CÂU HỎI NHẬN THỨC CÔNG TÁC HẬU CẦN, KỸ THUẬT 2025",
+    "sections": [
+        {
+            "id": "section1",
+            "title": "I. CÔNG TÁC HẬU CẦN, KỸ THUẬT",
+            "description": "",
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "Theo Quy định số 21/QyĐ-HCKT ngày 19/02/2025 của Tổng cục Hậu cần - Kỹ thuật về Tổ chức ngày kỹ thuật trong Tổng cục Hậu cần - Kỹ thuật gồm bao nhiêu Chương, bao nhiêu Điều?",
+                    "options": [
+                        "5 chương, 20 điều",
+                        "6 chương, 20 điều",
+                        "5 chương, 21 điều"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q2",
+                    "question": "Theo Quy định số 21/QyĐ-HCKT ngày 19/02/2025 của Tổng cục Hậu cần - Kỹ thuật về Tổ chức ngày kỹ thuật trong Tổng cục Hậu cần - Kỹ thuật, lực lượng thực hiện ngày kỹ thuật là:",
+                    "options": [
+                        "Các cơ quan tham mưu, chính trị, hậu cần - kỹ thuật, tài chính; cơ sở đều phải tham gia ngày kỹ thuật theo chức trách, nhiệm vụ được giao.",
+                        "Thủ trưởng đơn vị; cơ quan hậu cần - kỹ thuật; cơ sở đều phải tham gia ngày kỹ thuật theo chức trách, nhiệm vụ được giao.",
+                        "Thủ trưởng đơn vị; các cơ quan tham mưu, chính trị, hậu cần - kỹ thuật, tài chính; cơ sở đều phải tham gia ngày kỹ thuật theo chức trách, nhiệm vụ được giao."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q3",
+                    "question": "Theo Quy định số 21/QyĐ-HCKT ngày 19/02/2025 của Tổng cục Hậu cần - Kỹ thuật về Tổ chức ngày kỹ thuật trong Tổng cục Hậu cần - Kỹ thuật, ngày kỹ thuật được tiến hành vào thời gian nào?",
+                    "options": [
+                        "Ngày kỹ thuật trong tuần thực hiện vào thứ sáu hàng tuần. Ngày kỹ thuật trong tháng thực hiện vào thứ sáu tuần thứ nhất và thứ sáu tuần thứ ba. Với đơn vị tổ chức ngày kỹ thuật một tháng một lần thì thực hiện vào thứ sáu tuần thứ tư.",
+                        "Ngày kỹ thuật trong tuần thực hiện vào thứ sáu hàng tuần. Ngày kỹ thuật trong tháng thực hiện vào thứ sáu tuần thứ hai và thứ sáu tuần thứ tư. Với đơn vị tổ chức ngày kỹ thuật một tháng một lần thì thực hiện vào thứ sáu tuần thứ tư.",
+                        "Ngày kỹ thuật trong tuần thực hiện vào thứ sáu hàng tuần. Ngày kỹ thuật trong tháng thực hiện vào thứ sáu tuần thứ hai và thứ sáu tuần thứ ba. Với đơn vị tổ chức ngày kỹ thuật một tháng một lần thì thực hiện vào thứ sáu tuần thứ tư."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q4",
+                    "question": "Theo tính chất quản lý, trang bị kỹ thuật được phân thành bao nhiêu nhóm?",
+                    "options": [
+                        "4 nhóm.",
+                        "3 nhóm.",
+                        "2 nhóm."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q5",
+                    "question": "Theo chức năng, trang bị kỹ thuật được phân thành bao nhiêu nhóm?",
+                    "options": [
+                        "2 nhóm.",
+                        "3 nhóm.",
+                        "5 nhóm."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q6",
+                    "question": "Theo mục đích sử dụng, trang bị kỹ thuật được phân thành bao nhiêu nhóm?",
+                    "options": [
+                        "4 nhóm.",
+                        "2 nhóm.",
+                        "3 nhóm."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q7",
+                    "question": "Trong phân nhóm trang bị kỹ thuật theo tính chất quản lý. Cơ quan quản lý và bảo đảm trang bị kỹ thuật nhóm 1 là cơ quan nào?",
+                    "options": [
+                        "Cơ quan Chính trị.",
+                        "Cơ quan tham mưu.",
+                        "Cơ quan kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q8",
+                    "question": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Tham gia tạo nguồn trang bị kỹ thuật, phối hợp kiểm tra chất lượng trang bị kỹ thuật được tạo nguồn là một nội dung của bảo đảm trang bị kỹ thuật.",
+                        "Tham gia tạo nguồn trang bị kỹ thuật, kiểm tra chất lượng trang bị kỹ thuật được tạo nguồn là một nội dung của bảo đảm trang bị kỹ thuật.",
+                        "Tham gia tạo nguồn trang bị kỹ thuật, phối hợp kiểm tra, giám sát chất lượng trang bị kỹ thuật được tạo nguồn là một nội dung của bảo đảm trang bị kỹ thuật."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q9",
+                    "question": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Phân nhóm, phân cấp chất lượng trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật.",
+                        "Phân nhóm chất lượng trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật.",
+                        "Phân nhóm, phân cấp chất lượng kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q10",
+                    "question": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Đề xuất loại khỏi trang bị là một nội dung của bảo đảm trang bị kỹ thuật.",
+                        "Đề xuất loại khỏi trang bị quân sự và tổ chức xử lý trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật.",
+                        "Đề xuất loại khỏi trang bị quân sự và xử lý là một nội dung của bảo đảm trang bị kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q11",
+                    "question": "Trong cất giữ trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Quản lý trang bị và đồng bộ theo yêu cầu nhiệm vụ; Giữ gìn, bảo vệ tránh mất mát, hư hỏng, nhầm lẫn trang bị kỹ thuật và đồng bộ; Duy trì thực hiện chế độ bảo quản, bảo dưỡng kỹ thuật đúng quy định.",
+                        "Quản lý, sắp xếp trang bị và đồng bộ theo yêu cầu nhiệm vụ; Giữ gìn, bảo vệ tránh mất mát, hư hỏng, nhầm lẫn trang bị kỹ thuật và đồng bộ; Duy trì thực hiện chế độ bảo quản, bảo dưỡng kỹ thuật đúng quy định.",
+                        "Quản lý, sắp xếp trang bị và đồng bộ theo yêu cầu nhiệm vụ; Giữ gìn, bảo vệ tránh mất mát, hư hỏng trang bị kỹ thuật và đồng bộ; Duy trì thực hiện chế độ bảo dưỡng kỹ thuật đúng quy định."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q12",
+                    "question": "Trong tiếp nhận trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Đơn vị tiếp nhận kiểm tra cụ thể trang bị kỹ thuật khi tiếp nhận. Chỉ tiếp nhận trang bị với đầy đủ số lượng; chất lượng, đồng bộ tốt; đúng chủng loại, nhãn hiệu trong quyết định của cấp có thẩm quyền.",
+                        "Đơn vị tiếp nhận kiểm tra trang bị kỹ thuật khi tiếp nhận. Chỉ tiếp nhận trang bị với đầy đủ số lượng; chất lượng tốt; đúng chủng loại, nhãn hiệu trong quyết định của cấp có thẩm quyền.",
+                        "Đơn vị tiếp nhận kiểm tra cụ thể trang bị kỹ thuật khi tiếp nhận. Chỉ tiếp nhận trang bị với đầy đủ số lượng, chất lượng; đúng chủng loại, nhãn hiệu trong quyết định của cấp có thẩm quyền."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q13",
+                    "question": "Trong phân nhóm trang bị kỹ thuật theo chức năng; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Nhóm trang bị chính: Trực tiếp tạo nên hỏa lực, bảo đảm cơ động, bảo đảm chiến đấu.",
+                        "Nhóm trang bị chính: trực tiếp tạo nên sức mạnh chiến đấu của bộ đội, bảo đảm cơ động, bảo đảm cho tác chiến.",
+                        "Nhóm trang bị chính: trực tiếp tạo nên sức mạnh chiến đấu của bộ đội, bảo đảm cho hành quân, cơ động, bảo đảm chiến đấu."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q14",
+                    "question": "Trong phân nhóm trang bị kỹ thuật theo chức năng; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Nhóm trang bị bổ trợ: Là trang bị phục vụ cho vũ khí, trang bị chính hoạt động và đồng bộ với khí tài",
+                        "Nhóm trang bị bổ trợ: Phục vụ cho trang bị chính hoạt động, đồng bộ với trang bị chính",
+                        "Nhóm trang bị bổ trợ: Phục vụ cho vũ khí, trang bị chính và được đồng bộ hoàn chỉnh."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q15",
+                    "question": "Trang bị kỹ thuật trong Quân đội được phân thành bao nhiêu cấp chất lượng?",
+                    "options": [
+                        "5 cấp chất lượng.",
+                        "3 cấp chất lượng.",
+                        "4 cấp chất lượng."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q16",
+                    "question": "Trong xử lý trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Khi xử lý, phải tận dụng chi tiết, vật tư, phụ tùng còn sử dụng được; tổ chức tháo gỡ, thu hồi và quản lý để phục vụ cho công tác bảo đảm kỹ thuật.",
+                        "Khi xử lý, phải tận dụng chi tiết, cụm chi tiết, vật tư, phụ tùng còn sử dụng được; tổ chức tháo gỡ, thu hồi và quản lý chặt chẽ để phục vụ cho công tác bảo đảm kỹ thuật.",
+                        "Khi xử lý, phải tận dụng chi tiết, cụm chi tiết, vật tư, phụ tùng còn sử dụng được; tổ chức tháo gỡ và quản lý để phục vụ cho công tác bảo đảm kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q17",
+                    "question": "Trong Nội dung bảo đảm kỹ thuật cho trang bị; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Nội dung bảo đảm kỹ thuật gồm: Chuẩn bị sử dụng trang bị kỹ thuật; Bảo quản trang bị kỹ thuật; Bảo dưỡng kỹ thuật; Sửa chữa trang bị kỹ thuật; Niêm cất trang bị kỹ thuật; Tăng hạn sử dụng trang bị kỹ thuật.",
+                        "Nội dung bảo đảm kỹ thuật gồm: Chuẩn bị sử dụng trang bị kỹ thuật; Bảo dưỡng kỹ thuật; Sửa chữa Trang bị kỹ thuật; Niêm cất, mở niêm cất trang bị kỹ thuật; Tăng hạn sử dụng trang bị kỹ thuật.",
+                        "Nội dung bảo đảm kỹ thuật gồm: Chuẩn bị sử dụng trang bị kỹ thuật; Bảo quản trang bị kỹ thuật; Bảo dưỡng kỹ thuật; Sửa chữa Trang bị kỹ thuật; Niêm cất, mở niêm cất trang bị kỹ thuật; Tăng hạn sử dụng trang bị kỹ thuật."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q18",
+                    "question": "Bảo dưỡng kỹ thuật là tiến hành các hoạt động như thế nào?",
+                    "options": [
+                        "Kiểm tra tham số kỹ thuật và các nội dung khác theo quy định của nhà sản xuất và hướng dẫn của chuyên ngành kỹ thuật nhằm duy trì tính năng chiến- kỹ thuật của trang bị và khắc phục hỏng hóc.",
+                        "Kiểm tra, điều chỉnh tham số kỹ thuật và các nội dung khác theo quy định của nhà sản xuất và hướng dẫn của chuyên ngành kỹ thuật nhằm duy trì tính năng chiến- kỹ thuật của trang bị và phòng ngừa hỏng hóc.",
+                        "Kiểm tra, điều chỉnh tham số kỹ thuật và các nội dung khác theo quy định của nhà sản xuất nhằm duy trì tính năng kỹ thuật của trang bị và phòng ngừa hỏng hóc."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q19",
+                    "question": "Sửa chữa trang bị kỹ thuật được phân cấp như thế nào?",
+                    "options": [
+                        "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp; Sửa chữa vừa thực hiện tại nhà máy, xưởng, tiểu đoàn sửa chữa; Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp, xưởng sửa chữa.",
+                        "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp; Sửa chữa vừa thực hiện tại xưởng, tiểu đoàn sửa chữa; Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp, xưởng sửa chữa.",
+                        "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp; Sửa chữa vừa thực hiện tại nhà máy, xưởng, tiểu đoàn sửa chữa; Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q20",
+                    "question": "Trong mở niêm cất trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Nội dung mở niêm cất trang bị kỹ thuật gồm: Tiến hành mở niêm, kiểm tra tình trạng kỹ thuật của trang bị kỹ thuật; Bảo dưỡng kỹ thuật theo quy định của chuyên ngành kỹ thuật; Tổ chức hiệu chỉnh, kiểm chuẩn trang bị kỹ thuật, đồng bộ trang bị theo quy trình, quy định của chuyên ngành kỹ thuật.",
+                        "Nội dung mở niêm cất trang bị kỹ thuật gồm: Tiến hành mở niêm, kiểm tra tình trạng kỹ thuật, đồng bộ của trang bị kỹ thuật; Bảo dưỡng kỹ thuật theo quy định của chuyên ngành kỹ thuật và yêu cầu sử dụng của đơn vị; Tổ chức hiệu chỉnh, kiểm chuẩn trang bị kỹ thuật, đồng bộ trang bị theo quy trình, quy định của chuyên ngành kỹ thuật.",
+                        "Nội dung mở niêm cất trang bị kỹ thuật gồm: Tiến hành mở niêm, kiểm tra tình trạng kỹ thuật của trang bị kỹ thuật; Bảo dưỡng kỹ thuật theo quy định của chuyên ngành kỹ thuật và yêu cầu sử dụng của đơn vị; Tổ chức hiệu chỉnh, kiểm chuẩn trang bị kỹ thuật theo quy trình, quy định của chuyên ngành kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q21",
+                    "question": "Khi mở niêm cất trang bị kỹ thuật trong trường hợp khẩn cấp, yêu cầu như thế nào?",
+                    "options": [
+                        "Trường hợp khẩn cấp do nguy cơ bị thiên tai hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa trang bị ra khỏi nơi nguy hiểm theo mệnh lệnh của người chỉ huy.",
+                        "Trường hợp khẩn cấp do nguy cơ bị thiên tai, hỏa hoạn hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa trang bị kỹ thuật ra khỏi nơi nguy hiểm theo mệnh lệnh của người chỉ huy và phải báo cáo kịp thời với cấp trên.",
+                        "Trường hợp khẩn cấp do nguy cơ bị thiên tai, hỏa hoạn hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa vũ khí, trang bị ra khỏi nơi nguy hiểm và phải báo cáo kịp thời với cơ quan quản lý cấp trên."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q22",
+                    "question": "Trong Bảo đảm vật tư kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Vật tư kỹ thuật được bảo đảm theo phân cấp, đủ số lượng, chất lượng, đồng bộ, đáp ứng yêu cầu, nhiệm vụ của đơn vị. Chỉ huy đơn vị trực tiếp quản lý, bảo quản, bảo dưỡng, cất giữ và sử dụng vật tư kỹ thuật đúng quy định, hướng dẫn của cơ quan đầu chuyên ngành kỹ thuật.",
+                        "Vật tư kỹ thuật được bảo đảm theo phân cấp, kịp thời, đủ số lượng, chất lượng, đồng bộ đúng chủng loại, đáp ứng yêu cầu, nhiệm vụ của đơn vị. Chỉ huy đơn vị trực tiếp quản lý, bảo quản, bảo dưỡng, cất giữ và sử dụng vật tư kỹ thuật đúng quy định, hướng dẫn của cơ quan đầu chuyên ngành kỹ thuật.",
+                        "Vật tư kỹ thuật được bảo đảm theo phân cấp, đủ số lượng, chất lượng, đồng bộ đúng chủng loại, đáp ứng yêu cầu, nhiệm vụ của đơn vị. Chỉ huy đơn vị trực tiếp bảo quản, bảo dưỡng, cất giữ và sử dụng vật tư kỹ thuật đúng quy định, hướng dẫn của cơ quan đầu chuyên ngành kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q23",
+                    "question": "Trong Bảo đảm vật tư kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Việc tiếp nhận, điều chuyển, cấp phát, thu hồi, thanh xử lý vật tư kỹ thuật phải có quyết định của cấp có thẩm quyền và đúng quy định của cơ quan đầu chuyên ngành kỹ thuật.",
+                        "Việc tiếp nhận, điều chuyển, thu hồi, thanh xử lý vật tư kỹ thuật phải có quyết định của cấp có thẩm quyền và đúng quy định của cơ quan kỹ thuật.",
+                        "Việc tiếp nhận, điều chuyển,thu hồi phải có quyết định của cấp có thẩm quyền và đúng quy định của người chỉ huy."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q24",
+                    "question": "Trong Công tác an toàn vệ sinh lao động; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Công tác an toàn vệ sinh lao động gồm hệ thống các giải pháp, chống tác động của các yếu tố nguy hiểm, nhằm đảm bảo an toàn, không xảy ra thương tật, tử vong và gây bệnh tật đối với con người trong quá trình lao động; bảo vệ tài sản của Nhà nước và Quân đội.",
+                        "Công tác an toàn vệ sinh lao động gồm hệ thống các giải pháp, chống tác động của các yếu tố nguy hiểm, có hại nhằm đảm bảo an toàn, không xảy ra thương tật, tử vong và gây bệnh tật, làm suy giảm sức khỏe đối với con người trong quá trình lao động; bảo vệ tài sản của Nhà nước và Quân đội.",
+                        "Công tác an toàn vệ sinh lao động gồm hệ thống các giải pháp, chống tác động của các yếu tố có hại nhằm đảm bảo an toàn, không xảy ra thương tật, tử vong và gây bệnh tật, làm suy giảm sức khỏe đối với con người; bảo vệ tài sản của Nhà nước và Quân đội."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q25",
+                    "question": "Trong công tác kiểm định kỹ thuật an toàn lao động; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Các máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn lao động thuộc danh mục của Nhà nước và Quân đội ban hành phải được kiểm định, đăng ký lần đầu đạt yêu cầu trước khi đưa vào sử dụng và thực hiện kiểm định định kỳ hoặc đột xuất theo quy định đối với mỗi loại máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn lao động.",
+                        "Các máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động thuộc danh mục của Nhà nước và Quân đội ban hành phải được kiểm định lần đầu trước khi đưa vào sử dụng và thực hiện kiểm định định kỳ hoặc đột xuất theo quy định đối với mỗi loại máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động.",
+                        "Các máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động thuộc danh mục của Nhà nước và Quân đội ban hành phải được kiểm định, đăng ký lần đầu trước khi đưa vào sử dụng và thực hiện kiểm định định kỳ hoặc đột xuất theo quy định đối với mỗi loại máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q26",
+                    "question": "Trong An toàn giao thông; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Tuyên truyền, phổ biến giáo dục pháp luật về an toàn giao thông. Nghiên cứu, ứng dụng Công nghệ và kỹ thuật mới vào công tác bảo đảm an toàn giao thông là nội dung của An toàn giao thông.",
+                        "Tuyên truyền, phổ biến giáo dục pháp luật về an toàn giao thông. Nghiên cứu, ứng dụng Khoa học, công nghệ mới về công tác bảo đảm an toàn giao thông là nội dung của An toàn giao thông.",
+                        "Tuyên truyền, phổ biến giáo dục pháp luật về an toàn giao thông. Nghiên cứu, ứng dụng Khoa học, công nghệ và kỹ thuật mới vào công tác bảo đảm an toàn giao thông là nội dung của An toàn giao thông."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q27",
+                    "question": "Trong nội dung quản lý vật tư kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+                    "options": [
+                        "Nội dung quản lý vật tư kỹ thuật gồm: Tạo nguồn, mua sắm vật tư kỹ thuật; Bảo quản, bảo dưỡng, sửa chữa, niêm cất vật tư kỹ thuật; Sử dụng vật tư kỹ thuật; Cấp phát vật tư kỹ thuật; Dự trữ vật tư kỹ thuật; Đăng ký, thống kê, kiểm kê vật tư kỹ thuật; Báo cáo, kiểm tra công tác vật tư kỹ thuật; Thanh quyết toán vật tư kỹ thuật.",
+                        "Nội dung quản lý vật tư kỹ thuật gồm: Tạo nguồn, mua sắm vật tư kỹ thuật; Cất giữ vật tư kỹ thuật; Bảo quản, bảo dưỡng, sửa chữa, niêm cất vật tư kỹ thuật; Sử dụng vật tư kỹ thuật; Cấp phát vật tư kỹ thuật; Dự trữ vật tư kỹ thuật; Đăng ký, thống kê, kiểm kê vật tư kỹ thuật; Báo cáo, kiểm tra công tác vật tư kỹ thuật; Thanh quyết toán vật tư kỹ thuật.",
+                        "Nội dung quản lý vật tư kỹ thuật gồm: Tạo nguồn, mua sắm vật tư kỹ thuật; Sử dụng vật tư kỹ thuật; Cấp phát vật tư kỹ thuật; Dự trữ vật tư kỹ thuật; Đăng ký, thống kê, kiểm kê vật tư kỹ thuật; Báo cáo, kiểm tra công tác vật tư kỹ thuật; Thanh quyết toán vật tư kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q28",
+                    "question": "Theo Điều 59, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), nội dung xây dựng điểm công tác kỹ thuật được quy định như thế nào?",
+                    "options": [
+                        "Xây dựng điểm từng nội dung của công tác kỹ thuật",
+                        "Xây dựng điểm toàn diện hoạt động công tác kỹ thuật",
+                        "Xây dựng điểm từng nội dung của công tác kỹ thuật; xây dựng điểm toàn diện hoạt động công tác kỹ thuật"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q29",
+                    "question": "Theo Điều 58, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), nội dung xây dựng chính quy nền nếp, chế độ công tác kỹ thuật được quy định như thế nào?",
+                    "options": [
+                        "Chính quy nền nếp trong xây dựng và tổ chức thực hiện công tác kế hoạch. Chính quy nền nếp, chế độ điều hành, chỉ đạo của cơ quan kỹ thuật và trong chỉ huy tổ chức thực hiện nhiệm vụ của cơ sở kỹ thuật. Chính quy nền nếp thực hiện chế độ các nội dung công tác kỹ thuật, kiểm tra, sơ kết, tổng kết, báo cáo kết quả.",
+                        "Chính quy nền nếp, chế độ điều hành, chỉ đạo của cơ quan kỹ thuật và trong chỉ huy tổ chức thực hiện nhiệm vụ của cơ sở kỹ thuật. Chính quy nền nếp thực hiện chế độ các nội dung công tác kỹ thuật; kiểm tra, sơ kết, tổng kết, báo cáo kết quả.",
+                        "Chính quy nền nếp trong xây dựng và tổ chức thực hiện công tác kế hoạch. Chính quy nền nếp, chế độ điều hành, chỉ đạo của cơ quan kỹ thuật và trong chỉ huy tổ chức thực hiện nhiệm vụ của cơ sở kỹ thuật. Chính quy chế độ công tác của cơ quan, cơ sở kỹ thuật."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q30",
+                    "question": "Theo Điều 58, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), nội dung xây dựng chính quy cơ quan, cơ sở kỹ thuật kỹ thuật được quy định như thế nào?",
+                    "options": [
+                        "Chính quy chế độ công tác của cơ quan và cơ sở kỹ thuật; chấp hành nghiêm điều lệnh, điều lệ, chế độ quy định của Quân đội, pháp luật của Nhà nước. Duy trì nền nếp, chế độ quản lý chức trách, nhiệm vụ, con người, trang bị kỹ thuật và cơ sở vật chất.",
+                        "Chính quy chế độ công tác của cơ quan và cơ sở kỹ thuật; chấp hành nghiêm điều lệnh, điều lệ, chế độ quy định của Quân đội, pháp luật của Nhà nước. Duy trì nền nếp, chế độ quản lý chức trách, nhiệm vụ. con người, trang bị kỹ thuật và cơ sở vật chất. Thống nhất hệ thống bảng, biển chính quy; sắp xếp, bố trí vị trí làm việc, sinh hoạt thống nhất về nội dung, hình thức đúng quy định",
+                        "Chính quy chế độ công tác của cơ quan và cơ sở kỹ thuật; chấp hành nghiêm điều lệnh, điều lệ, chế độ quy định của Quân đội, pháp luật của Nhà nước. Duy trì nền nếp, chế độ quản lý chức trách, nhiệm vụ. con người, trang bị kỹ thuật và cơ sở vật chất. Chính quy nền nếp, chế độ điều hành, chỉ đạo của cơ quan kỹ thuật và trong chỉ huy tổ chức thực hiện nhiệm vụ của cơ sở kỹ thuật."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q31",
+                    "question": "Theo Điều 3, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), Bảo đảm kỹ thuật là nội dung nào dưới đây?",
+                    "options": [
+                        "Là tổng thể các hoạt động có tổ chức, tác động lên trang bị kỹ thuật nhằm duy trì đúng tính năng chiến – kỹ thuật và bảo đảm an toàn của trang bị kỹ thuật để hoàn thành nhiệm vụ.",
+                        "Là tổng thể các hình thức, biện pháp duy trì và phục hồi tính năng chiến – kỹ thuật, độ tin cậy, tuổi thọ của trang bị, nhằm sử dụng, khai thác trang bị có hiệu quả, bảo đảm an toàn, đáp ứng yêu cầu nhiệm vụ của Quân đội.",
+                        "Là tổng thể các hoạt động nhằm đáp ứng kịp thời chất lượng, đồng bộ và khả năng khai thác trang bị kỹ thuật của các đơn vị Quân đội khi thực hiện nhiệm vụ."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q32",
+                    "question": "Theo Điều 6, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), nội dung cơ bản công tác kỹ thuật gồm có mấy nội dung?",
+                    "options": [
+                        "06 nội dung",
+                        "07 nội dung",
+                        "08 nội dung"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q33",
+                    "question": "Theo Điều 8, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), gồm có bao nhiêu chuyên ngành kỹ thuật?",
+                    "options": [
+                        "18 chuyên ngành",
+                        "19 chuyên ngành",
+                        "20 chuyên ngành"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q34",
+                    "question": "Theo Điều 24, Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), theo chức năng, trang bị kỹ thuật được phân thành những nhóm nào?",
+                    "options": [
+                        "Nhóm trang bị chính. Nhóm trang bị bổ trợ. Nhóm trang bị bảo đảm",
+                        "Nhóm tác chiến. Nhóm huấn luyện. Nhóm bảo đảm",
+                        "Nhóm trang bị kỹ thuật nhóm 1. Nhóm trang bị kỹ thuật nhóm 2"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q35",
+                    "question": "Theo điều 31 - Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), nội dung chuẩn bị sử dụng trang bị kỹ thuật gồm các nội dung nào dưới đây?",
+                    "options": [
+                        "Tra nạp dầu, mỡ theo quy định. Bảo quản trang bị kỹ thuật. Kiểm chuẩn, hiệu chỉnh trang bị kỹ thuật. Sửa chữa trang bị kỹ thuật",
+                        "Kiểm tra kỹ thuật. Tra nạp dầu, mỡ theo quy định. Bảo dưỡng kỹ thuật. Tăng hạn sử dụng trang kỹ thuật",
+                        "Kiểm tra kỹ thuật. Tra nạp dầu, mỡ theo quy định. Kiểm chuẩn, hiệu chỉnh trang bị kỹ thuật. Đồng bộ theo trang bị kỹ thuật"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q36",
+                    "question": "Theo điều 35 - Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), phân cấp sửa chữa được quy định như thế nào?",
+                    "options": [
+                        "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp. Sửa chữa vừa thực hiện tại nhà máy, xưởng, tiểu đoàn sửa chữa. Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp, xưởng sửa chữa.",
+                        "Sửa chữa nhỏ thực hiện tại nhà máy, xưởng, tiểu đoàn sửa chữa. Sửa chữa vừa thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp. Sửa chữa lớn thực hiện tại nhà máy, xưởng sửa chữa.",
+                        "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp. Sửa chữa vừa thực hiện tại nhà máy, xí nghiệp, xưởng sửa chữa. Sửa chữa lớn thực hiện tại nhà máy, tiểu đoàn sửa chữa."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q37",
+                    "question": "Theo điều 42 - Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), hình thức huấn luyện kỹ thuật tại đơn vị bao gồm những nội dung nào là đầy đủ?",
+                    "options": [
+                        "Huấn luyện thường xuyên theo quy định. Bổ túc, bồi dưỡng, tập huấn, hội thi, hội thao kỹ thuật. Huấn luyện, kiểm tra đánh giá năng lực, trình độ chuyên môn kỹ thuật đối với nhân viên kỹ thuật sau huấn luyện.",
+                        "Huấn luyện thường xuyên theo quy định. Bổ túc, bồi dưỡng, tập huấn, hội thi, hội thao kỹ thuật. Huấn luyện, kiểm tra đánh giá năng lực, trình độ chuyên môn kỹ thuật đối với nhân viên kỹ thuật sau huấn luyện. Diễn tập",
+                        "Huấn luyện thường xuyên theo quy định. Huấn luyện, kiểm tra đánh giá năng lực, trình độ chuyên môn kỹ thuật đối với nhân viên kỹ thuật sau huấn luyện. Diễn tập"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q38",
+                    "question": "Theo điều 21 - Điều lệ công tác kỹ thuật QĐNDVN (Ban hành kèm theo Thông tư số 06/2023/TT-BQP ngày 19/01/2023 của Bộ trưởng BQP), nội dung bảo đảm trang bị kỹ thuật bao gồm mấy nội dung?",
+                    "options": [
+                        "5 nội dung",
+                        "6 nội dung",
+                        "7 nội dung"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q39",
+                    "question": "Thông tư 69/2024/TT-BQP ngày 14/10/2024 của Bộ Quốc phòng quy định nội dung gì?",
+                    "options": [
+                        "Quy định về đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+                        "Quy định về cải tạo xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+                        "Quy định về kiểm soát quân sự, kiểm tra xe quân sự tham gia giao thông đường bộ"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q40",
+                    "question": "Thông tư 70/2024/TT-BQP ngày 14/10/2024 của Bộ Quốc phòng quy định nội dung gì?",
+                    "options": [
+                        "Quy định về đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+                        "Quy định về cải tạo xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+                        "Quy định về kiểm soát quân sự, kiểm tra xe quân sự tham gia giao thông đường bộ"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q41",
+                    "question": "Thông tư 71/2024/TT-BQP ngày 14/10/2024 của Bộ Quốc phòng quy định nội dung gì?",
+                    "options": [
+                        "Quy định về đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+                        "Quy định về cải tạo xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+                        "Quy định về kiểm soát quân sự, kiểm tra xe quân sự tham gia giao thông đường bộ"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q42",
+                    "question": "Đồng chí cho biết nội dung thực hiện Cuộc vận động 50 theo Hướng dẫn số 3500/HD-BCĐ của Ban Chỉ đạo 50 BQP gồm mấy nội dung?",
+                    "options": [
+                        "3 nội dung.",
+                        "4 nội dung.",
+                        "5 nội dung.",
+                        "6 nội dung."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q43",
+                    "question": "Đồng chí cho biết chỉ tiêu km an toàn/1 vụ A, B về xe ô tô quân sự theo Hướng dẫn số 3500/HD-BCĐ của Ban Chỉ đạo 50 BQP là bao nhiêu?",
+                    "options": [
+                        "Phấn đấu đạt và vượt chỉ tiêu 4,5 triệu km",
+                        "Phấn đấu đạt và vượt chỉ tiêu 5 triệu km",
+                        "Phấn đấu đạt và vượt chỉ tiêu 5,5 triệu km"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q44",
+                    "question": "Đồng chí cho biết Cuộc vận động 50 gồm mấy mục tiêu?",
+                    "options": [
+                        "3 mục tiêu",
+                        "4 mục tiêu",
+                        "5 mục tiêu",
+                        "6 mục tiêu"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q45",
+                    "question": "Chỉ thị số 50/CT-QP của Bộ trưởng Bộ Quốc phòng về việc tiếp tục đẩy mạnh thực hiện Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm” trong Quân đội thời kỳ công nghiệp hóa, hiện đại hóa đất nước ban hành ngày, tháng, năm nào?",
+                    "options": [
+                        "10/01/1998.",
+                        "01/10/1998.",
+                        "10/10/1998.",
+                        "10/10/2000."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q46",
+                    "question": "Nhà để xe có chức năng gì?",
+                    "options": [
+                        "Để cất chưa các loại xe, máy đơn vị được trang bị, giảm thiểu tối đa sự phá huy của môi trường.",
+                        "Để cất chưa các loại xe ô tô của đơn vị được trang bị, giảm thiểu tối đa sự phá huy của môi trường.",
+                        "Để cất chưa các loại máy, trang bị kỹ thuật của đơn vị được trang bị, giảm thiểu tối đa sự phá huy của môi trường.",
+                        "Để cất chưa các loại trang bị kỹ thuật đơn vị được trang bị, giảm thiểu tối đa sự phá huy của môi trường."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q47",
+                    "question": "Bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của ai?",
+                    "options": [
+                        "Bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của cơ quan, tổ chức, cá nhân.",
+                        "Bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của công an và những người được giao nhiệm vụ."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q48",
+                    "question": "Hướng dẫn thực hiện Cuộc vận động “Quản lý, khai thác vũ khí trang bị kỹ thuật tốt, bền, an toàn, tiết kiệm và An toàn giao thông” giai đoạn 2021-2025 của BCĐ50 BQP số 3500/HD-BCĐ ngày 18/9/2020, cấp nào được thành lập Ban chỉ đạo 50?",
+                    "options": [
+                        "Cấp tiểu đoàn và tương đương trở lên.",
+                        "Cấp Trung đoàn và tương đương trở lên.",
+                        "Cấp lữ đoàn và tương đương trở lên.",
+                        "Cấp sư đoàn và tương đương trở lên."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q49",
+                    "question": "Đồng chí cho biết chủ đề của Năm An toàn giao thông 2025 là gì?",
+                    "options": [
+                        "Hành trình an toàn, kiến tạo tương lai",
+                        "Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn",
+                        "Thượng tôn pháp luật để hình thành văn hóa giao thông an toàn"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q50",
+                    "question": "Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng?",
+                    "options": [
+                        "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông. là ý thức tránh nhiệm với cộng đồng khi tham gia giao thông.",
+                        "Là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.",
+                        "Cả hai ý trên."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q51",
+                    "question": "Khi xảy ra tai nạn giao thông, người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây?",
+                    "options": [
+                        "Đặt các biển cảnh báo hoặc vật báo hiệu ở phía trước và phía sau hiện trường xảy ra tai nạn để cảnh báo. kiểm tra khả năng xảy ra hỏa hoạn do nhiên liệu bị rò rỉ. bảo vệ hiện trường vụ tai nạn và cấp cứu người bị thương.",
+                        "Đặt các biển cảnh báo hoặc vật báo hiệu ở phía trên nóc xe xảy ra tai nạn để cảnh báo. kiểm tra khả năng xảy ra mất an toàn do nước làm mát bị rò rỉ. di chuyển hiện trường vụ tai nạn để giao thông thông suốt.",
+                        "Cả ý 1 và ý 2."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q52",
+                    "question": "Theo đồng chí cơ quan nào là Cơ quan Thường trực Ban Chỉ đạo “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông”?",
+                    "options": [
+                        "Tổng cục Hậu cần - Kỹ thuật.",
+                        "Bộ TổngTham mưu.",
+                        "Tổng cục Chính trị."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q53",
+                    "question": "Theo Thông tư số 02/2017/TT-BQP ngày 05/01/2017 của Bộ trưởng BQP quy định thời gian huấn luyện ATVSLĐ lần đầu cho các đối tượng tối thiểu như thế nào?",
+                    "options": [
+                        "Nhóm 1: 16 giờ; Nhóm 2: 32 giờ; Nhóm 3: 32 giờ; nhóm 4: 16 giờ; Nhóm 5: 56 giờ; Nhóm 6: Tổng thời gian huấn luyện ít nhất là 4 giờ ngoài nội dung đã được huấn luyện về an toàn, vệ sinh lao động.",
+                        "Nhóm 1: 16 giờ; Nhóm 2: 48 giờ; Nhóm 3: 48 giờ; nhóm 4: 16 giờ; Nhóm 5: 56 giờ; Nhóm 6: Tổng thời gian huấn luyện ít nhất là 4 giờ ngoài nội dung đã được huấn luyện về an toàn, vệ sinh lao động",
+                        "Nhóm 1, nhóm 4: 16 giờ; Nhóm 2: 48 giờ; Nhóm 3: 24 giờ; Nhóm 5: 56 giờ; Nhóm 6: Tổng thời gian huấn luyện ít nhất là 4 giờ ngoài nội dung đã được huấn luyện về an toàn, vệ sinh lao động."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q54",
+                    "question": "Theo Thông tư số 02/2017/TT-BQP ngày 05/01/2017 của Bộ trưởng BQP quy định thời gian huấn luyện ATVSLĐ lần đầu cho các đối tượng nhóm 1, nhóm 4 tối thiểu là bao nhiêu?",
+                    "options": [
+                        "Ít nhất là 14 giờ, bao gồm cả thời gian kiểm tra.",
+                        "Ít nhất là 16 giờ, bao gồm cả thời gian kiểm tra.",
+                        "Ít nhất là 18 giờ, bao gồm cả thời gian kiểm tra"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q55",
+                    "question": "Theo Thông tư số 142/2017/TT-BQP ngày 29/5/2017 của Bộ trưởng BQP Quy định chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị thực hiện công tác ATVSLĐ trong BQP, quy định Tổ chức cơ quan ATBHLĐ tại các đơn vị cơ sở như thế nào?",
+                    "options": [
+                        "Tại các kho đạn dược, kho VKTBKT, kho xăng dầu, nhà máy sản xuất, sửa chữa đạn dược, VKTBKT cấp I: Trợ lý chuyên trách ATBHLĐ. Tại các kho đạn dược, kho VKTBKT, kho xăng dầu, xưởng sửa chữa VKTBKT cấp II, kho hậu cần cấp I, Bộ chỉ huy quân sự, Bộ chỉ huy Bộ đội Biên phòng tỉnh, thành phố trực thuộc Trung ương, các đơn vị cấp sư đoàn, lữ đoàn, trung đoàn và tương đương, các học viện, nhà trường, bệnh viện, các viện nghiên cứu thuộc các đầu mối trực thuộc BQP và các cơ sở thí nghiệm độc lập: Trợ lý kiêm nhiệm ATBHLĐ.",
+                        "Tại các kho đạn dược, kho VKTBKT, kho xăng dầu, xưởng sửa chữa VKTBKT cấp II, kho hậu cần cấp III, Bộ chỉ huy quân sự, Bộ chỉ huy Bộ đội Biên phòng tỉnh, thành phố trực thuộc Trung ương, các đơn vị cấp sư đoàn, lữ đoàn ,trung đoàn và tương đương, các học viện, nhà trường, bệnh viện, các viện nghiên cứu thuộc các đầu mối trực thuộc BQP và các cơ sở thí nghiệm độc lập: Trợ lý kiêm nhiệm ATBHLĐ.",
+                        "Cả 02 ý trên"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q56",
+                    "question": "Theo Thông tư số 142/2017/TT-BQP ngày 29/5/2017 của Bộ trưởng BQP Quy định chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị thực hiện công tác ATVSLĐ trong BQP, quy định Hội đồng An toàn, vệ sinh lao động cơ sở thành lập ở các cấp?",
+                    "options": [
+                        "Sư đoàn, lữ đoàn, trung đoàn và tương đương",
+                        "Các cơ sở sản xuất, kinh doanh thuộc các lĩnh vực, ngành nghề quy định tại Khoản I Điều 36 Nghi định số 39/2015/NĐ-CP ngày 15/5/2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật ATVSLĐ và sử dụng từ 300 lao động trở nên.",
+                        "Các cơ sở sản xuất, kinh doanh hoạt động trong các lĩnh vực, ngành nghề khác với cơ sở sản xuất, kinh doanh quy định tại Điểm b Khoản I Điều này, có sử dụng từ 1000 lao động trở lên. Tập đoàn kinh tế, Tổng công ty nhà nước.",
+                        "Tất cả các ý trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q57",
+                    "question": "Theo Thông tư số 142/2017/TT-BQP ngày 29/5/2017 của Bộ trưởng BQP Quy định chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị thực hiện công tác ATVSLĐ trong BQP, quy định thành phần của Hội đồng An toàn, vệ sinh lao động gồm?",
+                    "options": [
+                        "Đại diện người sử dụng lao động làm Chủ tịch Hội đồng; đại diện BCH công đoàn cơ sở, hoặc đại diện HĐQN, đại diện tập thể người lao động (nơi không có tổ chức công đoàn) làm Phó Chủ tịch; người làm công tác ATVSLĐ ở đơn vị, cơ sở sản xuất kinh doanh là ủy viên thường trực kiêm thư ký; người làm công tác y tế ở đơn vị, cơ sở sản xuất, kinh doanh;",
+                        "Đại diện người sử dụng lao động làm Chủ tịch Hội đồng; đại diện BCH công đoàn cơ sở, hoặc đại diện HĐQN, đại diện tập thể người lao động (nơi không có tổ chức công đoàn) làm Phó Chủ tịch; người làm công tác ATVSLĐ ở đơn vị, cơ sở sản xuất kinh doanh là ủy viên thường trực kiêm thư ký; người làm công tác y tế ở đơn vị, cơ sở sản xuất, kinh doanh; các thành viên khác có liên quan; thành phần của Hội đồng An toàn, vệ sinh lao động cơ sở phải bảo đảm tỷ lệ thành viên nữ tham gia phù hợp với nguyên tắc bình đẳng giới theo điều kiện thực tế ở đơn vị, cơ sở sản xuất, kinh doanh.",
+                        "Đại diện người sử dụng lao động làm Chủ tịch Hội đồng; đại diện BCH công đoàn cơ sở, hoặc đại diện HĐQN làm Phó Chủ tịch; người làm công tác ATVSLĐ ở đơn vị, cơ sở sản xuất kinh doanh là ủy viên thường trực kiêm thư ký; người làm công tác y tế ở đơn vị, cơ sở sản xuất, kinh doanh; các thành viên khác có liên quan."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q58",
+                    "question": "Theo Thông tư số 142/2017/TT-BQP ngày 29/5/2017 của Bộ trưởng BQP Quy định chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị thực hiện công tác ATVSLĐ trong BQP quy định việc xây dựng kế hoạch ATVSLĐ hằng năm như thế nào?",
+                    "options": [
+                        "Hằng năm, người sử dụng lao động phải xây dựng kế hoạch ATVSLĐ. Đối với các công việc phát sinh trong năm kế hoạch thì phải xây dựng kế hoạch bổ sung để triển khai thực hiện.",
+                        "Hằng năm, người sử dụng lao động phải xây dựng kế hoạch ATVSLĐ. Đối với các công việc phát sinh trong năm kế hoạch thì phải bổ sung nội dung phù hợp vào kế hoạch ATVSLĐ.",
+                        "Hằng năm, người sử dụng lao động phải xây dựng kế hoạch ATVSLĐ. Thường xuyên rà soát các công việc phát sinh trong năm kế hoạch kịp thời bổ sung nội dung cho phù hợp."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q59",
+                    "question": "Theo Thông tư số 142/2017/TT-BQP ngày 29/5/2017 của Bộ trưởng BQP Quy định chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị thực hiện công tác ATVSLĐ trong BQP xác định tổ chức kiểm tra công tác ATVSLĐ bao gồm?",
+                    "options": [
+                        "Thành lập đoàn kiểm tra; Họp đoàn kiểm tra phân công nhiệm vụ cho các thành viên, xác định lịch kiểm tra; Thông báo lịch kiểm tra đến các đơn vị hoặc các tổ chức sản xuất; Tiến hành kiểm tra; Đoàn kiểm tra ghi nhận xét và kiến nghị với đơn vị kiểm tra.",
+                        "Thành lập đoàn kiểm tra; Họp đoàn kiểm tra phân công nhiệm vụ cho các thành viên, xác định lịch kiểm tra; Thông báo lịch kiểm tra đến các đơn vị hoặc các tổ chức sản xuất; Tiến hành kiểm tra; Đoàn kiểm tra ghi nhận xét và kiến nghị với đơn vị kiểm tra; ghi các vấn đề giải quyết thuộc trách nhiệm của cấp kiểm tra, vào sổ biên bản kiểm tra của đơn vị kiểm tra.",
+                        "Thành lập đoàn kiểm tra; Thông báo lịch kiểm tra đến các đơn vị hoặc các tổ chức sản xuất; Tiến hành kiểm tra; Đoàn kiểm tra ghi nhận xét và kiến nghị với đơn vị kiểm tra; ghi các vấn đề giải quyết thuộc trách nhiệm của cấp kiểm tra, vào sổ biên bản kiểm tra của đơn vị kiểm tra."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q60",
+                    "question": "Theo Thông tư số 142/2017/TT-BQP ngày 29/5/2017 của Bộ trưởng BQP Quy định chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị thực hiện công tác ATVSLĐ trong BQP quy định việc sơ kết, tổng kết công tác ATVSLĐ gồm?",
+                    "options": [
+                        "Định kỳ 6 tháng và hằng năm, các đơn vị phải tổ chức sơ kết, tổng kết công tác ATVSLĐ với các nội dung: Phân tích các kết quả đạt được, các thiếu sót, tồn tại, nguyên nhân và các bài học kinh nghiệm; tổ chức khen thưởng đối với các tập thể và cá nhân làm tốt công tác ATVSLĐ; Việc sơ kết, Tổng kết công tác ATVSLĐ được thực hiện từ cấp cơ sở đến cấp BQP.",
+                        "Định kỳ hằng năm, các đơn vị phải tổ chức sơ kết, tổng kết công tác ATVSLĐ với các nội dung: Phân tích các kết quả đạt được, các thiếu sót, tồn tại, nguyên nhân và các bài học kinh nghiệm; tổ chức khen thưởng đối với các tập thể và cá nhân làm tốt công tác ATVSLĐ; phát động phong trào thi đua bảo đảm ATVSLĐ, PCCN; Việc sơ kết, Tổng kết công tác ATVSLĐ được thực hiện từ cấp Trung đoàn và tương đương đến cấp BQP.",
+                        "Định kỳ 6 tháng và hằng năm, các đơn vị phải tổ chức sơ kết, tổng kết công tác ATVSLĐ với các nội dung: Phân tích các kết quả đạt được, các thiếu sót, tồn tại, nguyên nhân và các bài học kinh nghiệm; tổ chức khen thưởng đối với các tập thể và cá nhân làm tốt công tác ATVSLĐ; phát động phong trào thi đua bảo đảm ATVSLĐ, PCCN; Việc sơ kết, Tổng kết công tác ATVSLĐ được thực hiện từ cấp cơ sở đến cấp BQP."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q61",
+                    "question": "Theo Thông tư số 02/2017/TT-BQP đối tượng tham gia huấn luyện an toàn, vệ sinh lao động gồm mấy nhóm?",
+                    "options": [
+                        "5 nhóm.",
+                        "6 nhóm.",
+                        "7 nhóm.",
+                        "8 nhóm."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q62",
+                    "question": "Theo Thông tư số 02/2017/TT-BQP ngày 05/01/2017 của Bộ trưởng BQP quy định thời gian huấn luyện ATVSLĐ lần đầu cho các đối tượng nhóm 3 tối thiểu là bao nhiêu?",
+                    "options": [
+                        "Ít nhất là 20 giờ, bao gồm cả thời gian kiểm tra",
+                        "Ít nhất là 24 giờ, bao gồm cả thời gian kiểm tra",
+                        "Ít nhất là 26 giờ, bao gồm cả thời gian kiểm tra",
+                        "Ít nhất là 28 giờ, bao gồm cả thời gian kiểm tra"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q63",
+                    "question": "Đồng chí cho biết các mục tiêu cuộc vận động 50 theo Hướng dẫn số 3500/HD-BCĐ của Ban Chỉ đạo 50 BQP?",
+                    "options": [
+                        "Quản lý tốt VKTBKT; Khai thác VKTBKT tốt, bền; An toàn tiết kiệm; An toàn giao thông.",
+                        "Quản lý tốt VKTBKT; Khai thác VKTBKT tốt, bền; Bảo đảm an toàn; Thực hành tiết kiệm.",
+                        "Quản lý tốt VKTBKT; Khai thác VKTBKT tốt, bền; Bảo đảm an toàn VKTBKT; Thực hành tiết kiệm.",
+                        "Quản lý tốt VKTBKT; Khai thác VKTBKT tốt, bền; Bảo đảm an toàn VKTBKT."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q64",
+                    "question": "Đồng chí cho biết mục tiêu “Bảo đảm an toàn” theo Hướng dẫn số 3500/HD-BCĐ của Ban Chỉ đạo 50 BQP?",
+                    "options": [
+                        "Bảo đảm an toàn VKTBKT và an toàn, vệ sinh lao động; Bảo đảm an toàn thông tin, an ninh mạng; Bảo đảm an toàn giao thông.",
+                        "Bảo đảm an toàn VKTBKT và an toàn, vệ sinh lao động; Bảo đảm an toàn an ninh mạng; Bảo đảm an toàn giao thông",
+                        "Bảo đảm an toàn VKTBKT và an toàn, vệ sinh lao động; Bảo đảm an toàn thông tin và bảo đảm an toàn giao thông"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q65",
+                    "question": "Điều kiện đảm bảo an toàn cho VKTBKT và an toàn, vệ sinh lao động trong Hướng dẫn số 3500/HD-BCĐ/BQP là?",
+                    "options": [
+                        "Có đủ phương tiện bảo hộ lao động và phòng chống cháy nổ, chống sét, phòng chống thiên tai; Phải có cơ sở vật chất tối thiểu đảm bảo an toàn.",
+                        "Có đủ phương tiện bảo hộ lao động và phòng chống cháy nổ, chống sét, phòng chống thiên tai; Phải có sổ sách, mẫu biểu và thường xuyên ghi chép, kiểm tra đầy đủ.",
+                        "Có đủ phương tiện bảo hộ lao động và phòng chống cháy nổ, chống sét, phòng chống thiên tai; Phải có sở vật chất tối thiểu đảm bảo an toàn; Phải có sổ sách, mẫu biểu và thường xuyên ghi chép, kiểm tra đầy đủ."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q66",
+                    "question": "Nội dung quản lý VKTBKT của Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” được thực hiện thông qua?",
+                    "options": [
+                        "Thường xuyên nắm chắc sự đồng bộ theo trang bị và đồng bộ theo đơn vị.",
+                        "Hệ thống sổ sách, mẫu biểu và các hướng dẫn chuyên ngành.",
+                        "Theo dõi thường xuyên và kiểm tra, kiểm kê định kỳ và đột xuất.",
+                        "Cả 3 nội dung trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q67",
+                    "question": "Thực hiện Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” hiện nay trong Quân đội gồm những mục tiêu nào?",
+                    "options": [
+                        "- Mục tiêu 1: Quản lý tốt VKTBKT. - Mục tiêu 2: Khai thác VKTBKT tốt, bền. - Mục tiêu 3: Bảo đảm an toàn cho VKTBKT.",
+                        "- Mục tiêu 1: Quản lý tốt VKTBKT. - Mục tiêu 2: Khai thác VKTBKT tốt, bền. - Mục tiêu 3: Bảo đảm an toàn cho VKTBKT. - Mục tiêu 4: Thực hành tiết kiệm.",
+                        "- Mục tiêu 1: Quản lý tốt VKTBKT. - Mục tiêu 2: Khai thác VKTBKT tốt, bền. - Mục tiêu 3: Bảo đảm an toàn cho VKTBKT. - Mục tiêu 4: Thực hành tiết kiệm. - Mục tiêu 5: Quản lý tốt xe - máy."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q68",
+                    "question": "Mục tiêu 3 của Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” gồm những nội dung nào?",
+                    "options": [
+                        "VKTBKT đem sử dụng, bảo quản, bảo dưỡng, sửa chữa, tăng hạn hay niêm cất dự trữ đều phải chấp hành nghiêm ngặt quy tắc an toàn. Người trực tiếp tác động vào VKTBKT phải được HL kỹ về quy tắc an toàn, đồng thời cán bộ phải tổ chức bảo đảm đầy đủ cơ sở vật chất tối đa theo khả năng để thực hiện được quy tắc an toàn.",
+                        "An toàn trong khai thác VKTBKT là phải ngăn ngừa một cách tích cực, chủ động mọi sự cố gây ra hư hỏng, xuống cấp VKTBKT trước niên hạn, khi cơ động hoặc vận chuyển VKTBKT phải chấp hành triệt để Luật Giao thông đường bộ, đường thuỷ, đường không, thực hiện đúng quy tắc vận chuyển VKTBKT, bảo đảm an toàn tuyệt đối cho người, phương tiện vận chuyển và VKTBKT.",
+                        "An toàn nơi cất giữ VKTBKT là phải có khu KT, hệ thống kho tàng đúng quy cách, tiêu chuẩn KT, phải có phương án phòng chống cháy nổ, mất cắp và luyện tập xử trí thành thạo. Phải có tường rào che chắn kín đáo, bí mật. Phải có đủ phương tiện phòng chống cháy nổ, chống sét, sắp xếp VKTBKT trong kho phải bảo đảm đúng quy cách cất giữ từng loại và bảo đảm sẵn sàng chiến đấu thuận tiện trong quản lý và cấp phát VKTBKT theo Điều lệ công tác KT quy định. Gắn an toàn đơn vị với xây dựng địa bàn an toàn góp phần giữ vững an ninh chính trị, trật tự an toàn xã hội.",
+                        "Cả 3 nội dung trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q69",
+                    "question": "Mục tiêu 4 của Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” gồm những nội dung nào?",
+                    "options": [
+                        "Thực hành tiết kiệm theo quan điểm một mặt phải đề cao ý thức cần kiệm trong sử dụng, tự lực, tự cường, đồng thời phải đẩy mạnh công tác nghiên cứu, ứng dụng tiến bộ kỹ thuật - công nghệ mới nhằm từng bước hoàn thiện nội dung, quy trình, hợp lý động tác và đạt mức kinh tế kỹ thuật tiên tiến cho mỗi loại VKTBKT trong quản lý và khai thác VKTBKT. Thực hiện tiết kiệm vật tư, xăng dầu, thời gian, công sức và ngân sách của Quân đội.",
+                        "Phải có đủ phương tiện phòng chống cháy nổ, chống sét, sắp xếp VKTBKT trong kho phải bảo đảm đúng quy cách cất giữ từng loại và bảo đảm sẵn sàng chiến đấu thuận tiện trong quản lý và cấp phát VKTBKT theo Điều lệ công tác KT quy định. Gắn an toàn đơn vị với xây dựng địa bàn an toàn góp phần giữ vững an ninh chính trị, trật tự an toàn xã hội.",
+                        "VKTBKT cất giữ trong khu KT, bảo dưỡng hoặc niêm cất dự trữ ở các kho phải chấp hành chế độ bảo quản, bảo dưỡng thường xuyên, định kỳ. Đẩy mạnh công tác nghiên cứu ứng dụng, chế thử, sản xuất các vật liệu bảo quản nhằm giữ được chất lượng của VKTBKT dưới tác động của môi trường, thời tiết khí hậu trong các điều kiện khác nhau."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q70",
+                    "question": "Đối tượng thực hiện Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” trong Quân đội?",
+                    "options": [
+                        "Cán bộ, nhân viên chuyên môn kỹ thuật và VKTBKT trong biên chế của Quân đội.",
+                        "Mọi quân nhân, công nhân viên chức quốc phòng trong biên chế của Quân đội.",
+                        "Mọi quân nhân, công nhân viên chức Quốc phòng, VKTBKT trong biên chế của Quân đội."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q71",
+                    "question": "Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và an toàn giao thông” được bắt đầu thực hiện từ khi nào?",
+                    "options": [
+                        "Từ tháng 1/1998, trên cơ sở sát nhập Ban chỉ đạo CVĐ “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm” và Ban chỉ đạo an toàn giao thông các cấp.",
+                        "Từ tháng 1/1995, sau khi Bộ trưởng BQP phát động trong toàn quân Cuộc vận động“Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm”.",
+                        "Từ tháng 1/1996, trên cơ sở sát nhập Ban chỉ đạo CVĐ “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm” và Ban chỉ đạo an toàn giao thông các cấp."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q72",
+                    "question": "Việc tiến hành Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” thực hiện theo những bước nào?",
+                    "options": [
+                        "- Xây dựng nghị quyết lãnh đạo; - Thành lập Ban chỉ đạo 50; - Lập kế hoạch; - Tổ chức các hoạt động.",
+                        "- Thành lập Ban chỉ đạo 50; - Xây dựng nghị quyết lãnh đạo; - Lập kế hoạch; - Tổ chức các hoạt động.",
+                        "- Thành lập Ban chỉ đạo 50; - Lập kế hoạch; - Xây dựng nghị quyết lãnh đạo; - Tổ chức các hoạt động."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q73",
+                    "question": "Đối tượng thực hiện Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông”?",
+                    "options": [
+                        "Mọi quân nhân, công nhân viên chức Quốc phòng, VKTBKT trong biên chế của Quân đội.",
+                        "Mọi quân nhân, công nhân viên chức quốc phòng trong biên chế của Quân đội",
+                        "Cán bộ, nhân viên chuyên môn kỹ thuật và VKTBKT trong biên chế của Quân đội."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q74",
+                    "question": "Quy định Cuộc vận động “Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” ở đơn vị được thành lập ở cấp nào?",
+                    "options": [
+                        "Cấp Sư đoàn và tương đương trở lên.",
+                        "Cấp Trung đoàn và tương đương trở lên",
+                        "Cấp Tiểu đoàn và tương đương trở lên"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q75",
+                    "question": "Xác định phương án đúng các mục tiêu của Cuộc vận động 50?",
+                    "options": [
+                        "Quản lý tốt, khai thác VKTBKT tốt, bền; An toàn, tiết kiệm.",
+                        "Quản lý, khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và an toàn giao thông.",
+                        "Quản lý, khai thác VKTBKT tốt, bền; Bảo đảm an toàn; thực hành tiết kiệm."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q76",
+                    "question": "Nội dung cơ bản, chỉ tiêu PTTĐ “Ngành Hậu cần Quân đội làm theo lời Bác Hồ dạy”, gồm có mấy nội dung?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q77",
+                    "question": "Tiêu chuẩn, chế độ theo thông tư 96/2025/TT-BQP ngày 25/8/2025 quy định tiêu chuẩn, định lượng ăn mức tiền ăn cơ bản bộ binh Mức tiền ăn bệnh nhân điều trị bao gồm : Bệnh nhân điều trị nội trú tại Bệnh viện, Đội điều trị, Bệnh xá, Đại đội, Tiểu đoàn QY là bao nhiêu?",
+                    "options": [
+                        "120.000",
+                        "125.000",
+                        "126.000"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q78",
+                    "question": "Quy định mức sử dụng điện năng của HSQ-BS,QNCN, sĩ quan đến cấp thiếu trung tá trong QĐNDVN. Điện năng sử dụng cho sinh hoạt, làm việc theo Nghị định 76, Hạ sĩ quan, chiến sĩ được hưởng bao nhiêu kwh/ người/tháng?",
+                    "options": [
+                        "11 kwh/người/tháng",
+                        "28 kwh/người/tháng",
+                        "38 kwh/người/tháng"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q79",
+                    "question": "Quy định mức sử dụng điện năng của HSQ-BS,QNCN, sĩ quan đến cấp thiếu trung tá trong QĐNDVN. Điện năng sử dụng cho sinh hoạt, làm việc theo Nghị định 76, Cấp úy (cả chuyên nghiệp) được hưởng bao nhiêu kwh/người/tháng?",
+                    "options": [
+                        "11 kwh/ người/tháng",
+                        "28 kwh/ người/tháng",
+                        "38 kwh/ người/tháng"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q80",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết đối tượng quy định tại khoản 1 Điều 2 thông tư này được hưởng tiêu chuẩn bánh trưng tết Nguyên Đán mỗi chiếc có định lượng gạo nếp là?",
+                    "options": [
+                        "350 gam",
+                        "320 gam",
+                        "300 gam"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q81",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết chế mức tiền ăn quy định tại Thông tư này được tính thống nhất giá gạo tẻ trung bình là bao nhiêu?",
+                    "options": [
+                        "14.000 đồng/kg",
+                        "15.000 đồng/kg",
+                        "16.000 đồng/kg"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q82",
+                    "question": "Theo NĐ số 76/2016/NĐ-CP ngày 01/07/2016 quy định định mức sử dụng nước sạch trong sinh hoạt như nào?",
+                    "options": [
+                        "130-150 lít/người/ngày",
+                        "110-130 lít/người/ngày",
+                        "160-170 lít/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q83",
+                    "question": "Theo NĐ số 76/2016/NĐ-CP ngày 01/07/2016 quy định niên hạn cấp phát quân phục thường dùng như thế nào?",
+                    "options": [
+                        "1 năm",
+                        "2 năm",
+                        "3 năm"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q84",
+                    "question": "Theo NĐ số 76/2016/NĐ-CP ngày 01/07/2016 quy định niên hạn cấp phát mũ mềm dã chiến như nào?",
+                    "options": [
+                        "1 năm",
+                        "2 năm",
+                        "3 năm"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q85",
+                    "question": "Theo Chỉ thị số 72/CT-BQP của Bộ trưởng BQP ban hành năm 2023 quy định mức tiết kiệm nước như nào?",
+                    "options": [
+                        "4 lít nước/người/ngày",
+                        "5 lít nước/người/ngày",
+                        "8 lít nước/người/ngày"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q86",
+                    "question": "Theo NĐ số 76/2016/NĐ-CP ngày 01/07/2016 quy định tiêu chuẩn diện tích ở cấp úy và tương đương là bao nhiêu?",
+                    "options": [
+                        "7 m2/người/năm",
+                        "8 m2/người/năm",
+                        "9 m2/người/năm"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q87",
+                    "question": "Quy định diện tích ở của HSQ-BS,QNCN, sĩ quan đến cấp thiếu trung tá trong QĐNDVN. Diện tích ở theo Nghị định 76, Cấp thiếu, trung tá và tương đương bao nhiêu m2/người?",
+                    "options": [
+                        "7 m2/người",
+                        "9 m2/người",
+                        "10 m2/người"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q88",
+                    "question": "Quy định diện tích làm việc cán bộ chỉ huy trong QĐNDVN. Diện tích làm việc theo Nghị định 76, Chỉ huy Tiểu đoàn và tương đương bao nhiêu m2/người?",
+                    "options": [
+                        "10 m2/người",
+                        "12 m2/người",
+                        "16 m2/người"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q89",
+                    "question": "Theo NĐ 76 ngày 01/7/2016 thì 01 suất lễ phục đông gồm?",
+                    "options": [
+                        "01 bộ quần lễ phục + 01 áo lễ phục",
+                        "01 bộ quần lễ phục + 01 áo lễ phục + 01 đôi bít tất",
+                        "01 bộ quần lễ phục + 01 áo lễ phục + 01 đôi bít tất + 01 bộ ca ra vát"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q90",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng gạo tẻ như nào?",
+                    "options": [
+                        "680g/người/ngày",
+                        "700g/người/ngày",
+                        "750g/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q91",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định mức nhiệt lượng bảo đảm ăn cơ bản cho đối tượng bộ binh như nào?",
+                    "options": [
+                        "3.200k/người/ngày",
+                        "3.100k/người/ngày",
+                        "3.000k/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q92",
+                    "question": "Theo quy định, việc tổ chức điểm nghiệm quân trang của cấp trung đội và tương đương diễn ra như nào?",
+                    "options": [
+                        "1 tháng/lần",
+                        "2 tháng/lần",
+                        "3 tháng/lần"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q93",
+                    "question": "Theo quy định, việc tổ chức điểm nghiệm quân trang của cấp đại đội và tương đương diễn ra như nào?",
+                    "options": [
+                        "1 tháng/lần",
+                        "2 tháng/lần",
+                        "3 tháng/lần"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q94",
+                    "question": "Đối tượng áp dụng của nghị định 76/2016/NĐ-CP là ai?",
+                    "options": [
+                        "Quân nhân tại ngũ.",
+                        "CN, VCQP phục vụ trong tổ chức biên chế quân đội.",
+                        "Các CQ, đơn vị trong QĐ và các tổ chức, cá nhân có liên quan đến việc thực hiện tiêu chuẩn vật chất hậu cần đối với quân nhân tại ngũ, CNVCQP.",
+                        "Tất cả các phương án trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q95",
+                    "question": "Đâu là nguyên tắc sắp xếp quân tư trang vào ba lô?",
+                    "options": [
+                        "Vật nặng, ít sử dụng xếp trước xuống, vật nhẹ thường xuyên sử dụng xếp lên trên.",
+                        "Vật nặng ít sử dụng xếp lên trên",
+                        "Vật nhẹ thường xuyên sử dụng xếp xuống dưới cùng"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q96",
+                    "question": "Niên hạn cấp phát nilon mưa cho HSQ CS là?",
+                    "options": [
+                        "1 năm",
+                        "2 năm",
+                        "3 năm"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q97",
+                    "question": "Niên hạn cấp phát mũ kê pi và đồng bộ là?",
+                    "options": [
+                        "3 năm",
+                        "2 năm",
+                        "1 năm"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q98",
+                    "question": "Theo NĐ 76 ngày 01/7/2016 thì 01 suất quân phục đông gồm?",
+                    "options": [
+                        "01 bộ quần áo đông + 01 áo chít gấu dài tay",
+                        "01 bộ quần áo đông + 02 áo chít gấu dài tay",
+                        "01 áo đông + 02 quần đông + 01 áo chít gấu dài tay"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q99",
+                    "question": "Theo NĐ 76 ngày 01/7/2016 áo khoác quân sự cấp cho đối tượng nào?",
+                    "options": [
+                        "Cấp tá trở lên",
+                        "Cấp đại úy trở lên",
+                        "Cấp thượng úy trở lên"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q100",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết mức tiền ăn quy định tại Thông tư này quy định tiêu chuẩn ăn bộ binh định lượng mì chính như thế nào?",
+                    "options": [
+                        "2 gam/người/ngày",
+                        "1 gam/người/ngày",
+                        "3 gam/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q101",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết mức tiền ăn quy định tại Thông tư này quy định tiêu chuẩn ăn bộ binh định lượng hoa quả tráng miệng như thế nào?",
+                    "options": [
+                        "300 gam/người/ngày",
+                        "200 gam/người/ngày",
+                        "250 gam/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q102",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết mức tiền ăn quy định tại Thông tư này quy định với đối tượng bộ binh định lượng thịt xô lọc như thế nào?",
+                    "options": [
+                        "50 gam/người/ngày",
+                        "45 gam/người/ngày",
+                        "40 gam/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q103",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết mức tiền ăn quy định tại Thông tư này quy định với đối tượng bộ binh định lượng trứng như thế nào?",
+                    "options": [
+                        "40 gam/người/ngày",
+                        "45 gam/người/ngày",
+                        "50 gam/người/ngày"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q104",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết mức tiền ăn quy định tại Thông tư này quy định với đối tượng bộ binh định lượng dầu ăn như thế nào?",
+                    "options": [
+                        "50 ml/người/ngày",
+                        "25 ml/người/ngày",
+                        "40 ml/người/ngày"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q105",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết chế độ ăn thêm các ngày lễ, tết quy định tại Thông tư này quy định với quân nhân, công chức quốc phòng, công nhân quốc phòng và viên chức quốc phòng được thực hiện như thế nào?",
+                    "options": [
+                        "10 ngày",
+                        "11 ngày",
+                        "12 ngày"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q106",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết tiêu chuẩn bánh trưng tết quy định tại Thông tư này quy định với quân nhân, công chức quốc phòng, công nhân quốc phòng và viên chức quốc phòng được hưởng như thế nào?",
+                    "options": [
+                        "03 chiếc/người",
+                        "04 chiếc/người",
+                        "05 chiếc/người"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q107",
+                    "question": "Theo Thông tư 96/2025/TT-BQP, ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết, khi làm nhiệm vụ; chế độ an, bồi dưỡng hàng năm. Đồng chí cho biết tiêu chuẩn an bồi dưỡng quy định tại Thông tư này đối với sĩ quan có cấp bậc quân hàm Trung tá, Thiếu tá được hưởng như thế nào?",
+                    "options": [
+                        "2.400.000đ/người",
+                        "2.800.000đ/người",
+                        "3.100.000đ/người"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q108",
+                    "question": "Các yếu tố từ môi trường nắng – nóng tác động đến sức khoẻ như thế nào?",
+                    "options": [
+                        "Các yếu tố nguy cơ từ môi trường nắng – nóng có tác động không có lợi đến sức khoẻ bao gồm: Nhiệt độ không khí, độ ẩm không khí, vận tốc gió, lượng nhiệt bức xạ từ mặt trời và các nguồn nhiệt khác.",
+                        "Các yếu tố nguy cơ từ môi trường nắng – nóng có tác động không có lợi đến sức khoẻ bao gồm: Nhiệt độ không khí, độ ẩm không khí, lượng nhiệt bức xạ từ mặt trời và các nguồn nhiệt khác.",
+                        "Các yếu tố nguy cơ từ môi trường nắng – nóng có tác động đến sức khoẻ bao gồm: Nhiệt độ không khí, độ ẩm không khí, vận tốc gió, lượng nhiệt từ mặt trời và các nguồn nhiệt khác."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q109",
+                    "question": "Nguyên nhân dẫn đến say nắng - say nóng?",
+                    "options": [
+                        "Môi trường lao động ngoài trời, ánh sáng mặt trời gồm tia tử ngoại và tia hồng ngoại nên “nắng” luôn đi kèm với “nóng” nhưng ở môi trường không có ánh sáng mặt trời không hoàn toàn ngược lại. Đặc điểm của cơ thể khi tiếp xúc với cả “nắng” và “nóng” đều gây tăng thân nhiệt, nên thường hay gọi chung là “say nắng – say nóng”.",
+                        "Môi trường lao động ngoài trời, ánh sáng mặt trời nên “nắng” luôn đi kèm với “nóng” nhưng ở môi trường không có ánh sáng mặt trời không hoàn toàn ngược lại. Đặc điểm của cơ thể khi tiếp xúc với cả “nắng” và “nóng” đều gây tăng thân nhiệt, nên thường hay gọi chung là “say nắng – say nóng”.",
+                        "Môi trường lao động ngoài trời, ánh sáng mặt trời gồm tia tử ngoại và tia hồng ngoại nên “nắng” luôn đi kèm với “nóng” nhưng ở môi trường không có ánh sáng mặt trời không hoàn toàn ngược lại. Đặc điểm của cơ thể khi tiếp xúc với cả “nắng” và “nóng” thường hay gọi chung là “say nắng - say nóng”."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q110",
+                    "question": "Theo Khoản 1, Điều 160, Điều lệnh Quản lý bộ đội QĐNDVN, trách nhiệm của quân nhân trong quản lý thuốc và trang thiết bị quân y được quy định như thế nào?",
+                    "options": [
+                        "Cán bộ, nhân viên quân y các cấp có trách nhiệm tham gia quản lý chặt chẽ thuốc và dụng cụ quân y, không tham ô lãng phí, hạn chế tổn thất, hư hỏng tới mức thấp nhất.",
+                        "Mọi quân nhân có trách nhiệm tham gia quản lý chặt chẽ thuốc và dụng cụ quân y, không tham ô lãng phí, hạn chế tổn thất, hư hỏng tới mức thấp nhất.",
+                        "Cán bộ, nhân viên quân y các cấp có trách nhiệm tham gia quản lý chặt chẽ thuốc và dụng cụ quân y, không tham ô lãng phí, không để tổn thất, hư hỏng thuốc và trang thiết bị quân y."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q111",
+                    "question": "Theo Khoản 4, Điều 148, Điều lệnh Quản lý bộ đội QĐNDVN, trách nhiệm của quân nhân trong quản lý quân trang được quy định như thế nào?",
+                    "options": [
+                        "Báo cáo ngay với người chỉ huy đơn vị khi mất, hỏng và phải bồi thường nếu không có lý do chính đáng.",
+                        "Báo cáo ngay với người chỉ huy đơn vị khi mất, hỏng và phải mua, bồi thường nếu không có lý do chính đáng.",
+                        "Báo cáo ngay với người chỉ huy trực tiếp khi mất, hỏng và phải bồi thường nếu không có lý do chính đáng."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q112",
+                    "question": "Theo Điều 139, Điều lệnh Quản lý bộ đội QĐNDVN, Trách nhiệm của quân nhân trong quản lý sức khỏe được quy định như thế nào?",
+                    "options": [
+                        "Quân nhân phải tự bảo vệ sức khỏe của mình, chăm sóc sức khỏe của đồng đội, tích cực luyện tập thể dục, thể thao, chấp hành đúng quy định phòng bệnh, chữa bệnh, giữ vệ sinh cá nhân theo hướng dẫn của ngành quân y.",
+                        "Quân nhân phải tự bảo vệ sức khỏe của mình, tích cực tham gia rèn luyện, luyện tập thể dục, thể thao, văn hóa văn nghệ, chấp hành đúng quy định phòng bệnh, chữa bệnh, giữ vệ sinh cá nhân theo hướng dẫn của ngành quân y.",
+                        "Quân nhân phải tự bảo vệ sức khỏe của mình, tích cực tham gia rèn luyện, luyện tập thể dục, thể thao, chấp hành đúng quy định về vệ sinh phòng dịch, chữa bệnh, giữ gìn vệ sinh cá nhân theo hướng dẫn của ngành quân y"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q113",
+                    "question": "Theo Khoản 1, Điều 162, Điều lệnh Quản lý bộ đội QĐNDVN, thẩm quyền quyết định sử dụng thuốc quân y được quy định như thế nào?",
+                    "options": [
+                        "Người quyết định cho sử dụng thuốc phải là cán bộ, nhân viên quân y các cấp. Việc sử dụng thuốc phải đúng đối tượng, đúng liều lượng theo hướng dẫn của người cho sử dụng.",
+                        "Người quyết định cho sử dụng thuốc phải là người có trình độ chuyên môn về y học. Việc sử dụng thuốc phải đúng đối tượng, đúng liều lượng theo hướng dẫn của người cho sử dụng.",
+                        "Người quyết định cho sử dụng thuốc phải là cán bộ, nhân viên quân y các cấp trong Quân đội. Việc sử dụng thuốc phải đúng bệnh và theo đề nghị của người bệnh."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q114",
+                    "question": "Theo Điều lệ công tác quân y QĐNDVN năm 2001, thực hiện chế độ vệ sinh trong huấn luyện quân sự và thể dục thể thao đối với quân nhân như thế nào?",
+                    "options": [
+                        "Bảo đảm cho bộ đội giữ được sức khỏe và phát triển thể lực tốt, đồng thời hoàn thành chương trình luyện tập.",
+                        "Không xảy ra tai nạn.",
+                        "Tạo cho cơ thể khả năng chịu đựng những yếu tố bất lợi do ảnh hưởng của khí hậu thời tiết và ảnh hưởng của việc sử dụng các trang bị huấn luyện.",
+                        "Cả 3 nội dung trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q115",
+                    "question": "Theo Khoản 4, Điều 148, Điều lệnh Quản lý bộ đội QĐNDVN, trách nhiệm của quân nhân trong quản lý quân trang được quy định như thế nào?",
+                    "options": [
+                        "Báo cáo ngay với người chỉ huy đơn vị khi mất, hỏng và phải bồi thường nếu không có lý do chính đáng.",
+                        "Báo cáo ngay với người chỉ huy đơn vị khi mất, hỏng và phải mua, bồi thường nếu không có lý do chính đáng.",
+                        "Báo cáo ngay với người chỉ huy trực tiếp khi mất, hỏng và phải bồi thường nếu không có lý do chính đáng."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q116",
+                    "question": "Theo Khoản 2, Điều 148, Điều lệnh Quản lý bộ đội QĐNDVN trách nhiệm của quân nhân trong quản lý quân trang được quy định như thế nào?",
+                    "options": [
+                        "Giữ gìn sử dụng tốt những quân trang được cấp phát, sắp xếp gọn gàng, không để mất mát, không được bán, không được sửa chữa khác kiểu, tẩy nhuộm khác màu",
+                        "Giữ gìn sử dụng tốt những quân trang được cấp phát, sắp xếp gọn gàng, không để mất mát, không được sửa chữa khác kiểu, tẩy nhuộm khác màu",
+                        "Giữ gìn sử dụng tốt những quân trang được cấp phát, sắp xếp gọn gàng, không để mất mát, không được bán, không được sửa chữa khác kiểu"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q117",
+                    "question": "Theo Khoản 1, Điều 53, Điều lệnh Quản lý bộ đội QĐNDVN quy định đối với người chỉ huy đơn vị có tổ chức bếp ăn?",
+                    "options": [
+                        "Hàng ngày chỉ đạo trực ban, tổ kinh tế, quân y kiểm tra số người ăn; số lượng, chất lượng lương thực, thực phẩm sử dụng theo tiêu chuẩn được hưởng; vệ sinh nhà ăn, nhà bếp sạch sẽ",
+                        "Thực hiện kinh tế công khai trong ngày, tháng; giải quyết mọi thắc mắc, đề nghị về ăn, uống của quân nhân",
+                        "Cả 2 đáp án trên"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q118",
+                    "question": "Theo Khoản 4, Điều 53, Điều lệnh Quản lý bộ đội QĐNDVN quy định khi đến nhà ăn?",
+                    "options": [
+                        "Phải đúng giờ, đi ăn trước hay sau giờ quy định phải được chỉ huy hoặc trực ban đơn vị đồng ý và báo cáo trước cho nhà bếp",
+                        "Trước khi ăn phải nhúng bát đũa qua nước sôi. Ăn xong xếp gọn bát đĩa trên mặt bàn, xếp ghế vào gầm bàn trước khi rời nhà ăn",
+                        "Cả hai ý trên."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q119",
+                    "question": "Theo Điểm c, Khoản 2, Điều 53, Điều lệnh Quản lý bộ đội QĐNDVN quy định đối với người ốm tại trại như thế nào?",
+                    "options": [
+                        "Đối với người ốm tại trại, nếu không đến được nhà ăn, cán bộ, chiến sỹ phục vụ và quân y phải mang cơm về cho người ốm. Những suất chưa ăn, nhân viên nhà ăn phải đậy lại cẩn thận.",
+                        "Đối với người ốm tại trại, nếu không đến được nhà ăn, trực nhật và quân y phải mang cơm về cho người ốm. Những suất chưa ăn, nhân viên nhà ăn phải đậy lại cẩn thận.",
+                        "Cả hai phương án trên"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q120",
+                    "question": "Theo Điểm c, Khoản 3, Điều 53, Điều lệnh Quản lý bộ đội QĐNDVN, thời gian lưu nghiệm thức ăn được quy định như thế nào?",
+                    "options": [
+                        "Sau 6 giờ không có việc gì xẩy ra mới bỏ đi.",
+                        "Sau 12 giờ không có việc gì xẩy ra mới bỏ đi.",
+                        "Sau 24 giờ không có việc gì xẩy ra mới bỏ đi."
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}

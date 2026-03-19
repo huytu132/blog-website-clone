@@ -2,25 +2,64 @@
 <html lang="vi">
 
 <head>
-  <meta charset="UTF-8">
-  <title>Trắc nghiệm Cán bộ</title>
-  <link rel="stylesheet" href="./css/index.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc nghiệm Cán bộ</title>
+    <link rel="stylesheet" href="./css/index.css">
 </head>
 
 <body>
-  <div id="header">
-    <button class="btn btn-yellow" onclick="showMenu()">🏠 Trang chủ</button>
-  </div>
 
-  <h1 class="title">Trắc nghiệm Cán bộ</h1>
-  <div id="menu"></div>
-  <div id="quiz" class="hidden"></div>
+    <!-- ─── Fixed Header ────────────────────── -->
+    <header id="top-bar">
+        <button id="nav-toggle" class="btn-icon-header" aria-label="Menu">☰</button>
+        <span id="app-title">🎯 Trắc nghiệm Cán bộ</span>
+        <span></span><!-- spacer -->
+    </header>
 
-  <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" class="tree left" alt="tree">
-<img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" class="tree mid" alt="tree">
-<img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" class="tree right" alt="tree">
+    <!-- ─── App Layout ──────────────────────── -->
+    <div id="app-layout">
 
-  <script src="./scripts/index.js"></script>
+        <!-- Left sidebar nav -->
+        <nav id="dataset-nav">
+            <div id="nav-list"><!-- tabs filled by JS --></div>
+            <div id="nav-bottom">
+                <button class="nav-tab" id="tab-history" onclick="switchTab('history')">
+                    📊 Lịch sử thi
+                </button>
+            </div>
+        </nav>
+
+        <!-- Overlay for mobile -->
+        <div id="nav-overlay"></div>
+
+        <!-- Main content -->
+        <main id="content-area">
+            <!-- Dataset panel (menu) -->
+            <div id="dataset-panel"></div>
+
+            <!-- Practice mode (quiz) -->
+            <div id="quiz-panel" class="hidden">
+                <div id="quiz-header">
+                    <button class="btn btn-ghost-light" onclick="exitPractice()">← Trở về</button>
+                    <span id="quiz-section-title"></span>
+                </div>
+                <div id="quiz-body"></div>
+            </div>
+
+            <!-- History panel -->
+            <div id="history-panel" class="hidden">
+                <h2>📊 Lịch sử thi</h2>
+                <div id="history-list"></div>
+                <button class="btn btn-danger-soft" onclick="clearHistory()" style="margin-top:14px">🗑 Xóa lịch sử</button>
+            </div>
+        </main>
+    </div>
+
+    <!-- Snowflakes -->
+    <div id="snowflakes"></div>
+
+    <script src="./scripts/index.js"></script>
 </body>
 
 </html>

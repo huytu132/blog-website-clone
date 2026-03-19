@@ -1,0 +1,233 @@
+{
+    "title": "4. Bộ 20 câu hỏi ngành Tài chính",
+    "description": "CÂU HỎI NHẬN THỨC CÔNG TÁC TÀI CHÍNH",
+    "sections": [
+        {
+            "id": "section1",
+            "title": "I. CÔNG TÁC TÀI CHÍNH",
+            "description": "",
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "Đồng chí hãy cho biết theo quy định tại Điều 79 Điều lệ công tác tài chính QĐNDVN ban hành theo Thông tư số 175/2020/TT-BQP ngày 30/12/2020 của Bộ Quốc phòng thì hằng năm đơn vị dự toán cấp 4 phải thực hiện kiểm tra tài chính đối với đơn vị trực thuộc mấy lần?",
+                    "options": [
+                        "01 lần.",
+                        "02 lần.",
+                        "03 lần.",
+                        "Kiểm tra hằng quý 01 lần"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q2",
+                    "question": "Đồng chí cho biết những nội dung nào sau đây phải thực hiện công khai ngân sách theo quy định tại Thông tư số 57/2019/TT-BQP ngày 27/5/2019 của Bộ trưởng Bộ Quốc phòng?",
+                    "options": [
+                        "Dự toán ngân sách năm.",
+                        "Thực hiện dự toán ngân sách quý, 06 tháng, cả năm.",
+                        "Quyết toán ngân sách năm.",
+                        "Tất cả các nội dung trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q3",
+                    "question": "Đồng chí cho biết theo quy định tại Thông tư số 26/2019/TT-BQP ngày 31/3/2019 của Bộ Quốc phòng thì những loại tài sản nào sau đây phải thực hiện chế độ công khai tài sản công tại các đơn vị lực lượng vũ trang?",
+                    "options": [
+                        "Tài sản đặc biệt.",
+                        "Tài sản chuyên dùng.",
+                        "Tài sản phục vụ công tác quản lý.",
+                        "Cả 3 loại tài sản trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q4",
+                    "question": "Đồng chí cho biết thời hạn phải công khai báo cáo tình hình thực hiện dự toán ngân sách nhà nước hằng quý đối với đơn vị dự toán theo Thông tư 57/2019/TT-BQP ngày 27/5/2019 như thế nào?",
+                    "options": [
+                        "15 ngày áp dụng đối với đơn vị dự toán cấp 3 và cấp 4.",
+                        "15 ngày làm việc áp dụng đối với đơn vị dự toán cấp 3 và cấp 4.",
+                        "Không quá 15 ngày làm việc áp dụng đối với đơn vị dự toán cấp 3 và cấp 4.",
+                        "Không quá 20 ngày làm việc áp dụng đối với đơn vị dự toán cấp 3 và cấp 4."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q5",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 95/2016/TT-BQP ngày 28/6/2025 của Bộ Quốc phòng về việc Hướng dẫn thưc hiện một số điều của Nghị định 27/2016/NĐ-CP ngày 06 tháng 4 năm 2016 của Chính phủ quy định một số chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ, xuất ngũ và thân nhân của hạ sĩ quan, binh sĩ tại ngũ thì Thời hạn tổng hợp, kiểm tra và đề nghị cấp trên trực tiếp của cấp đại đội, tiểu đoàn hoặc tương đương sau khi tiếp nhận bản khai đề nghị trợ cấp khó khăn đột xuất và các loại giấy tờ do HSQ, BS là bao nhiêu ngày?",
+                    "options": [
+                        "Không quá 01 ngày.",
+                        "Không quá 02 ngày.",
+                        "Không quá 03 ngày.",
+                        "Không quá 07 ngày."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q6",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 95/2016/TT-BQP ngày 28/6/2025 của Bộ Quốc phòng về việc Hướng dẫn thưc hiện một số điều của Nghị định 27/2016/NĐ-CP ngày 06 tháng 4 năm 2016 của Chính phủ quy định một số chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ, xuất ngũ và thân nhân của hạ sĩ quan, binh sĩ tại ngũ thì Thời hạn hoàn thành xem xét, quyết định trợ cấp khó khăn đột xuất cho hạ sĩ quan, binh sĩ của cấp trung đoàn và tương đương sau khi nhận được đề nghị của đơn vị cấp dưới là bao nhiêu ngày?",
+                    "options": [
+                        "Không quá 01 ngày.",
+                        "Không quá 02 ngày.",
+                        "Không quá 03 ngày.",
+                        "Không quá 07 ngày."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q7",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 95/2016/TT-BQP ngày 28/6/2025 của Bộ Quốc phòng về việc Hướng dẫn thưc hiện một số điều của Nghị định 27/2016/NĐ-CP ngày 06 tháng 4 năm 2016 của Chính phủ quy định một số chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ, xuất ngũ và thân nhân của hạ sĩ quan, binh sĩ tại ngũ thì khi thân nhân của hạ sĩ quan, binh sĩ tại ngũ ốm đau từ một tháng trở lên hoặc điều trị tại bệnh viện theo quy định được trợ cấp như thế nào?",
+                    "options": [
+                        "Không quá 02 lần trong một năm;",
+                        "Không quá 03 lần trong một năm;",
+                        "Không quá 04 lần trong một năm;",
+                        "Không quá 02 lần trong một năm đối với mỗi thân nhân."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q8",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 09/2012/TT-BQP ngày 08/02/2012 của Bộ Quốc phòng quy định chế độ trợ cấp khó khăn đột xuất với người hưởng lương trong Quân đội và mức hỗ trợ đối với cơ quan, đơn vị chủ trì tổ chức tang lễ đối với quân nhân, công nhân viên chức quốc phòng tại ngũ hy sinh, từ trần thì trường hợp gia đình gặp tai nạn, hỏa hoạn, thiên tai dẫn đến bị sập nhà, trôi nhà, cháy nhà hoặc gia đình phải di dời chỗ ở vì lý do nếu trên được trợ cấp như thế nào?",
+                    "options": [
+                        "1.000.000 đồng/suất/lần.",
+                        "2.000.000 đồng/suất/lần.",
+                        "3.000.000 đồng/suất/lần.",
+                        "5.000.000 đồng/suất/lần."
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q9",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 09/2012/TT-BQP ngày 08/02/2012 của Bộ Quốc phòng quy định chế độ trợ cấp khó khăn đột xuất với người hưởng lương trong Quân đội và mức hỗ trợ đối với cơ quan, đơn vị chủ trì tổ chức tang lễ đối với quân nhân, công nhân viên chức quốc phòng tại ngũ hy sinh, từ trần thì trường hợp bố, mẹ đẻ; bố mẹ vợ hoặc chồng; người nuôi dưỡng hợp pháp; vợ hoặc chồng; con đẻ, con nuôi hợp pháp ốm đau từ một tháng trở lên hoặc điều trị một lần tại bệnh viện từ 07 (bảy) ngày trở lên được trợ cấp như thế nào?",
+                    "options": [
+                        "300.000 đồng/suất/lần",
+                        "500.000 đồng/suất/lần",
+                        "1.000.000 đồng/suất/lần",
+                        "3.000.000 đồng/suất/lần."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q10",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 869/BQP-TC ngày 11/3/2024 của Bộ Quốc phòng về việc thực hiện chế độ thanh toán tiền nghỉ phép đối với người hưởng lương làm việc trong các cơ quan, đơn vị Quân đội thì người hưởng lương có đủ điều kiện được nghỉ phép hàng năm theo quy định của Bộ Quốc phòng, được Thủ trưởng cơ quan, đơn vị đồng ý cho đi nghỉ phép năm để về thăm gia đình, bố mẹ (cả bên chồng hoặc bên vợ), vợ hoặc chồng, con hoặc thăm quê quán (cả bên chồng hoặc bên vợ) được thanh toán tiền phương tiện đi lại, phụ cấp đi đường trong trường hợp nào?",
+                    "options": [
+                        "Địa bàn đóng quân hoặc địa bàn đi nghỉ phép hoặc cả 02 (hai) có hệ số phụ cấp khu vực từ 0,5 trở lên;",
+                        "Địa bàn đóng quân hoặc địa bàn đi nghỉ phép hoặc cả 02 (hai) có hệ số phụ cấp khu vực dưới 0,5 và khoảng cách giữa 02 (hai) địa bàn từ 300 kilômét trở lên;",
+                        "Địa bàn đi nghỉ phép có khoảng cách so với địa bàn đóng quân từ 500 kilômét trở lên;",
+                        "Cả 03 phương án trên."
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q11",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 4668/HD-BQP ngày 31/7/2025 của Bộ Quốc phòng về việc thực hiện chế độ công tác phí, chế độ hội nghị đối với cơ quan, đơn vị thuộc Bộ Quốc phòng thì mức phụ cấp lưu trú để chi trả cho người đi công tác đi và về trong ngày được hưởng mức phụ cấp như thế nào?",
+                    "options": [
+                        "100.000 đồng/ngày",
+                        "150.000 đồng/ngày",
+                        "250.000 đồng/ngày",
+                        "300.000 đồng/ngày"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "id": "q12",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 4668/HD-BQP ngày 31/7/2025 của Bộ Quốc phòng về việc thực hiện chế độ công tác phí, chế độ hội nghị đối với cơ quan, đơn vị thuộc Bộ Quốc phòng thì mức phụ cấp lưu trú để chi trả cho người đi công tác được hưởng mức phụ cấp như thế nào?",
+                    "options": [
+                        "100.000 đồng/ngày",
+                        "150.000 đồng/ngày",
+                        "250.000 đồng/ngày",
+                        "300.000 đồng/ngày"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q13",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 4668/HD-BQP ngày 31/7/2025 của Bộ Quốc phòng về việc thực hiện chế độ công tác phí, chế độ hội nghị đối với cơ quan, đơn vị thuộc Bộ Quốc phòng thì đối với những người thường xuyên phải đi công tác trên 10 ngày/tháng (như: Quân bưu, tiếp phẩm, kế toán giao dịch và các đối tượng khác) trong phạm vi địa bàn hoặc khu vực nhất định được thanh toán tiền công tác phí theo tháng nhưng tối đa là bao nhiêu?",
+                    "options": [
+                        "500.000 đồng/người/tháng",
+                        "Không quá 500.000 đồng/người/tháng",
+                        "700.000 đồng/người/tháng",
+                        "Không quá 700.000 đồng/người/tháng"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q14",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 4668/HD-BQP ngày 31/7/2025 của Bộ Quốc phòng về việc thực hiện chế độ công tác phí, chế độ hội nghị đối với cơ quan, đơn vị thuộc Bộ Quốc phòng thì đối với trường hợp phải tự túc phương tiện (kể cả đi bộ) các trụ sở cơ quan từ bao nhiêu km trở lên thì được thanh toán tiền tàu xe theo giá cước ô tô vận tải hành khác công cộng thông thường tại địa phương?",
+                    "options": [
+                        "Từ 10 km trở lên (đối với xã, khu vực đặc biệt khó khăn) và từ 15 km trở lên (đối với khu vực còn lại)",
+                        "Từ 15 km trở lên (đối với xã, khu vực đặc biệt khó khăn) và từ 10 km trở lên (đối với khu vực còn lại)",
+                        "Từ 15 km trở lên (đối với xã, khu vực đặc biệt khó khăn) và từ 20 km trở lên (đối với khu vực còn lại)",
+                        "Từ 20 km trở lên (đối với xã, khu vực đặc biệt khó khăn) và từ 15 km trở lên (đối với khu vực còn lại."
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q15",
+                    "question": "Đồng chí cho biết: Theo quy định tại Hướng dẫn số 4668/HD-BQP ngày 31/7/2025 của Bộ Quốc phòng về việc thực hiện chế độ công tác phí, chế độ hội nghị đối với cơ quan, đơn vị thuộc Bộ Quốc phòng thì đối với trường hợp đặc biệt, không có phương tiện vận tải hành khách công cộng thông thường thì người đi công tác được thanh toán tiền tự túc phương tiện bằng mức nào sau đây?",
+                    "options": [
+                        "2.000 đồng/km thực đi",
+                        "2.500 đồng/km thực đi",
+                        "3.000 đồng/km thực đi",
+                        "3.500 đồng/km thực đi"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q16",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 96/2025/TT-BQP ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân chủng, binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết khi làm nhiệm vụ; chế độ an, bồi dưỡng hằng năm; chế độ ăn thêm các ngày lễ, tết của quân nhân, CCQP, CNQP và VCQP đang hưởng lương, phụ cấp từ nguồn ngân sách nhà nước trong BQP được hưởng chế độ ăn thêm bao nhiêu ngày?",
+                    "options": [
+                        "10 ngày/năm",
+                        "11 ngày/năm",
+                        "12 ngày/năm",
+                        "13 ngày/năm"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "id": "q17",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 96/2025/TT-BQP ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân chủng, binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết khi làm nhiệm vụ; chế độ an, bồi dưỡng hằng năm; tiêu chuẩn bánh chưng tết Nguyên đán của quân nhân, CCQP, CNQP và VCQP đang hưởng lương, phụ cấp từ nguồn ngân sách nhà nước trong BQP được hưởng bao nhiêu chiếc/người?",
+                    "options": [
+                        "03 chiếc/người",
+                        "04 chiếc/người",
+                        "05 chiếc/người",
+                        "06 chiếc/người"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "id": "q18",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 96/2025/TT-BQP ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân chủng, binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết khi làm nhiệm vụ; chế độ an, bồi dưỡng hằng năm; mức tiền an, bồi dưỡng 2.400.000 đồng/lần áp dụng với đối tượng nào?",
+                    "options": [
+                        "Đối với sĩ quan, quân nhân chuyên nghiệp có cấp bậc quân hàm cấp úy; công nhân quốc phòng có hệ số lương 4,95; công chức quốc phòng, viên chức quốc phòng có hệ số lương 4,0",
+                        "Đối với sĩ quan, quân nhân chuyên nghiệp có cấp bậc quân hàm cấp úy; công nhân quốc phòng có hệ số lương 4,95; công chức quốc phòng, viên chức quốc phòng có hệ số lương dưới 4,0",
+                        "Đối với sĩ quan, quân nhân chuyên nghiệp có cấp bậc quân hàm cấp úy; công nhân quốc phòng có hệ số lương dưới 4,95; công chức quốc phòng, viên chức quốc phòng có hệ số lương 4,0",
+                        "Đối với sĩ quan, quân nhân chuyên nghiệp có cấp bậc quân hàm cấp úy; công nhân quốc phòng có hệ số lương dưới 4,95; công chức quốc phòng, viên chức quốc phòng có hệ số lương dưới 4,0"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q19",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 96/2025/TT-BQP ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân chủng, binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết khi làm nhiệm vụ; tiêu chuẩn , định lượng ăn bộ binh của mặt hàng gạo tẻ là bao nhiêu gam/người/ngày?",
+                    "options": [
+                        "650gam/người/ngày",
+                        "660gam/người/ngày",
+                        "670gam/người/ngày",
+                        "680gam/người/ngày"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "id": "q20",
+                    "question": "Đồng chí cho biết: Theo quy định tại Thông tư số 96/2025/TT-BQP ngày 25/8/2025 của Bộ Quốc phòng quy định tiêu chuẩn, định lượng ăn và mức tiền ăn cơ bản bộ binh, quân chủng, binh chủng, bệnh nhân điều trị, học viên quân sự quốc tế; ăn thêm ngày lễ, tết khi làm nhiệm vụ; giá gạo tẻ loại trung bình được tính thống nhất là bao nhiêu?",
+                    "options": [
+                        "14.000 đồng/kg",
+                        "15.000 đồng/kg",
+                        "16.000 đồng/kg",
+                        "17.000 đồng/kg"
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}
