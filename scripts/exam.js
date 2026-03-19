@@ -1,6 +1,5 @@
 // Danh sách tất cả bộ đề
 const ALL_DATASETS = [
-    { file: "questions.json" },
     { file: "congtacthammuu.json" },
     { file: "chinhtri.json" },
     { file: "hckt.json" },
