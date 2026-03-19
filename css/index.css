@@ -12,9 +12,9 @@ body {
     margin: 0;
     height: 100vh;
     overflow: hidden;
-    background: linear-gradient(160deg, #1e1b4b 0%, #312e81 40%, #1e40af 100%);
+    background: var(--bg-main);
     background-attachment: fixed;
-    color: #1e293b;
+    color: var(--text-main);
 }
 
 a {
@@ -33,31 +33,30 @@ a {
     align-items: center;
     justify-content: space-between;
     padding: 0 18px;
-    background: rgba(15, 10, 60, 0.8);
+    background: var(--header-bg);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    border-bottom: 1px solid var(--header-border);
     z-index: 1100;
 }
 
 #app-title {
     font-size: 17px;
     font-weight: 700;
-    color: #e0e7ff;
+    color: var(--header-text);
     letter-spacing: 0.3px;
 }
 
 .btn-icon-header {
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    color: #e0e7ff;
+    background: var(--header-icon-bg);
+    border: 1px solid var(--header-icon-border);
+    color: var(--header-text);
     width: 36px;
     height: 36px;
     border-radius: 8px;
     cursor: pointer;
     font-size: 16px;
     display: none;
-    /* shown only on mobile */
     align-items: center;
     justify-content: center;
 }
@@ -79,9 +78,9 @@ a {
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
-    background: rgba(15, 10, 60, 0.6);
+    background: var(--nav-bg);
     backdrop-filter: blur(8px);
-    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    border-right: 1px solid var(--nav-border);
     height: 100%;
     overflow: hidden;
     z-index: 900;
@@ -99,7 +98,7 @@ a {
 
 #nav-bottom {
     padding: 8px;
-    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    border-top: 1px solid var(--nav-border);
 }
 
 /* ─── Nav tab button ─────────────────────── */
@@ -110,7 +109,7 @@ a {
     background: transparent;
     border: none;
     border-radius: 8px;
-    color: rgba(199, 210, 254, 0.75);
+    color: var(--nav-tab-text);
     font-size: 13px;
     font-weight: 500;
     cursor: pointer;
@@ -121,15 +120,15 @@ a {
 }
 
 .nav-tab:hover {
-    background: rgba(255, 255, 255, 0.08);
-    color: #e0e7ff;
+    background: var(--nav-tab-hover-bg);
+    color: var(--nav-tab-hover-text);
 }
 
 .nav-tab.active {
-    background: rgba(99, 102, 241, 0.35);
-    color: #ffffff;
+    background: var(--nav-tab-active-bg);
+    color: var(--nav-tab-active-text);
     font-weight: 600;
-    border-left: 3px solid #818cf8;
+    border-left: 3px solid var(--nav-tab-active-border);
     padding-left: 9px;
 }
 
@@ -140,19 +139,19 @@ a {
     flex: 1;
     overflow-y: auto;
     padding: 24px 28px;
-    color: #f1f5f9;
+    color: var(--text-main);
 }
 
 /* ─── Dataset panel ──────────────────────── */
 #dataset-panel h1 {
     font-size: 22px;
     font-weight: 700;
-    color: #e0e7ff;
+    color: var(--panel-title);
     margin: 0 0 4px;
 }
 
 #dataset-panel .ds-desc {
-    color: rgba(199, 210, 254, 0.7);
+    color: var(--panel-desc);
     font-size: 14px;
     margin: 0 0 20px;
 }
@@ -165,7 +164,7 @@ a {
 .section-group h3 {
     font-size: 13px;
     font-weight: 600;
-    color: rgba(199, 210, 254, 0.6);
+    color: var(--text-muted);
     text-transform: uppercase;
     letter-spacing: 0.8px;
     margin: 0 0 10px;
@@ -179,8 +178,8 @@ a {
 
 /* ─── Exam card ──────────────────────────── */
 .exam-card {
-    background: rgba(255, 255, 255, 0.06);
-    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
     border-radius: 12px;
     padding: 16px 20px;
     margin-bottom: 16px;
@@ -189,16 +188,17 @@ a {
     justify-content: space-between;
     gap: 12px;
     flex-wrap: wrap;
+    box-shadow: 0 2px 8px var(--card-shadow);
 }
 
 .exam-card-info p {
     margin: 0;
-    color: rgba(199, 210, 254, 0.75);
+    color: var(--text-muted);
     font-size: 13px;
 }
 
 .exam-card-info strong {
-    color: #e0e7ff;
+    color: var(--panel-title);
     font-size: 15px;
     display: block;
     margin-bottom: 2px;
@@ -227,30 +227,31 @@ a {
 
 /* Section / practice button */
 .btn-section {
-    background: rgba(255, 255, 255, 0.1);
-    color: #e0e7ff;
-    border: 1px solid rgba(200, 43, 43, 0.18);
+    background: var(--btn-section-bg);
+    color: var(--btn-section-text);
+    border: 1px solid var(--btn-section-border);
 }
 
 .btn-section:hover {
-    background: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
-    color: #fff;
+    background: var(--btn-section-hover);
+    color: var(--btn-section-text);
 }
 
 .btn-back {
-    background-color: white;
+    background: var(--btn-ghost-bg);
+    color: var(--btn-ghost-text);
+    border: 1px solid var(--btn-ghost-border);
 }
 
 .btn-back:hover {
-    background-color: #b6bfbc;
+    background: var(--btn-ghost-hover);
 }
 
 /* Primary (exam) */
 .btn-primary {
-    background: linear-gradient(135deg, #4338ca, #6366f1);
-    color: #fff;
-    box-shadow: 0 2px 8px rgba(99, 102, 241, 0.35);
+    background: var(--btn-primary-bg);
+    color: var(--text-inverse);
+    box-shadow: var(--btn-primary-shadow);
 }
 
 .btn-primary:hover {
@@ -259,19 +260,19 @@ a {
 
 /* Ghost light (for quiz panel back button) */
 .btn-ghost-light {
-    background: rgba(255, 255, 255, 0.1);
-    color: #e0e7ff;
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: var(--btn-ghost-bg);
+    color: var(--btn-ghost-text);
+    border: 1px solid var(--btn-ghost-border);
 }
 
 .btn-ghost-light:hover {
-    background: rgba(255, 255, 255, 0.2);
+    background: var(--btn-ghost-hover);
 }
 
 /* Danger soft */
 .btn-danger-soft {
     background: rgba(220, 38, 38, 0.15);
-    color: #fca5a5;
+    color: #ef4444;
     border: 1px solid rgba(220, 38, 38, 0.3);
     border-radius: 8px;
     padding: 8px 14px;
@@ -309,7 +310,7 @@ a {
 #quiz-section-title {
     font-size: 16px;
     font-weight: 600;
-    color: #e0e7ff;
+    color: var(--panel-title);
     opacity: 0.9;
 }
 
@@ -320,22 +321,25 @@ a {
 
 /* ─── Practice question card ─────────────── */
 .practice-card {
-    background: #fff;
+    background: var(--practice-card-bg);
     border-radius: 12px;
     padding: 20px 22px;
     margin-bottom: 0;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+    box-shadow: var(--practice-card-shadow);
 }
 
 .practice-card p {
     font-size: 15px;
     line-height: 1.65;
-    color: #1e293b;
+    color: var(--question-text);
     margin: 0 0 18px;
 }
 
 .practice-card p b {
     color: #4338ca;
+}
+[data-theme="dark"] .practice-card p b {
+    color: #818cf8;
 }
 
 /* ─── Practice options ───────────────────── */
@@ -344,34 +348,34 @@ a {
     align-items: flex-start;
     gap: 10px;
     padding: 11px 14px;
-    border: 1.5px solid #e2e8f0;
+    border: 1.5px solid var(--opt-border);
     border-radius: 8px;
     margin: 7px 0;
     cursor: pointer;
     font-size: 14px;
     line-height: 1.5;
-    color: #334155;
-    background: #f8fafc;
+    color: var(--opt-text);
+    background: var(--opt-bg);
     transition: all 0.18s;
     user-select: none;
 }
 
 .option:hover {
-    background: #eff6ff;
-    border-color: #93c5fd;
-    color: #1e293b;
+    background: var(--opt-hover-bg);
+    border-color: var(--opt-hover-border);
+    color: var(--opt-hover-text);
 }
 
 .option.correct {
-    background: #dcfce7 !important;
-    border-color: #16a34a !important;
-    color: #14532d !important;
+    background: var(--opt-correct-bg) !important;
+    border-color: var(--opt-correct-border) !important;
+    color: var(--opt-correct-text) !important;
 }
 
 .option.wrong {
-    background: #fee2e2 !important;
-    border-color: #dc2626 !important;
-    color: #7f1d1d !important;
+    background: var(--opt-wrong-bg) !important;
+    border-color: var(--opt-wrong-border) !important;
+    color: var(--opt-wrong-text) !important;
 }
 
 .opt-label {
@@ -379,8 +383,8 @@ a {
     width: 24px;
     height: 24px;
     border-radius: 6px;
-    background: #e2e8f0;
-    color: #475569;
+    background: var(--opt-label-bg);
+    color: var(--opt-label-text);
     font-size: 11px;
     font-weight: 700;
     display: flex;
@@ -390,12 +394,12 @@ a {
 }
 
 .option.correct .opt-label {
-    background: #16a34a;
+    background: var(--opt-correct-label);
     color: #fff;
 }
 
 .option.wrong .opt-label {
-    background: #dc2626;
+    background: var(--opt-wrong-label);
     color: #fff;
 }
 
@@ -423,7 +427,7 @@ a {
 }
 
 #history-panel h2 {
-    color: #e0e7ff;
+    color: var(--panel-title);
     margin: 0 0 16px;
     font-size: 20px;
 }
@@ -435,8 +439,8 @@ a {
 }
 
 .history-item {
-    background: rgba(255, 255, 255, 0.07);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--history-item-bg);
+    border: 1px solid var(--history-item-border);
     border-radius: 10px;
     padding: 12px 16px;
     display: grid;
@@ -447,12 +451,12 @@ a {
 
 .history-title {
     font-size: 13px;
-    color: #c7d2fe;
+    color: var(--history-title);
 }
 
 .history-score {
     font-weight: 700;
-    color: #fff;
+    color: var(--text-main);
     font-size: 14px;
 }
 
@@ -465,22 +469,26 @@ a {
 
 .badge-good {
     background: rgba(34, 197, 94, 0.2);
-    color: #4ade80;
+    color: #16a34a;
 }
 
 .badge-ok {
     background: rgba(250, 204, 21, 0.2);
-    color: #fbbf24;
+    color: #ca8a04;
 }
 
 .badge-fail {
     background: rgba(239, 68, 68, 0.2);
-    color: #f87171;
+    color: #dc2626;
 }
+
+[data-theme="dark"] .badge-good { color: #4ade80; }
+[data-theme="dark"] .badge-ok { color: #fbbf24; }
+[data-theme="dark"] .badge-fail { color: #f87171; }
 
 .history-date {
     font-size: 11px;
-    color: rgba(199, 210, 254, 0.5);
+    color: var(--history-date);
     grid-column: 1 / -1;
 }
 
@@ -502,6 +510,10 @@ a {
     animation: fall linear infinite;
     pointer-events: none;
     z-index: 0;
+}
+
+[data-theme="light"] .snowflake {
+    color: rgba(0, 0, 0, 0.1);
 }
 
 @keyframes fall {
