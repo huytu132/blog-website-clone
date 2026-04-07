@@ -4,7 +4,8 @@ const ALL_DATASETS = [
     { file: "congtacthammuu.json", label: "📌 Công tác Tham mưu" },
     { file: "chinhtri.json", label: "🏛 Chính trị" },
     { file: "hckt.json", label: "🔧 Hậu cần Kỹ thuật" },
-    { file: "taichinh.json", label: "💰 Tài chính" }
+    { file: "taichinh.json", label: "💰 Tài chính" },
+    { file: "canbodoangioi.json", label: "🎓 Cán bộ Đoàn Giỏi" }
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];

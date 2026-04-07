@@ -3,7 +3,8 @@ const ALL_DATASETS = [
     { file: "congtacthammuu.json" },
     { file: "chinhtri.json" },
     { file: "hckt.json" },
-    { file: "taichinh.json" }
+    { file: "taichinh.json" },
+    { file: "canbodoangioi.json" }
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];
