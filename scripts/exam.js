@@ -1,10 +1,7 @@
 // Danh sách tất cả bộ đề
 const ALL_DATASETS = [
-    { file: "congtacthammuu.json" },
-    { file: "chinhtri.json" },
-    { file: "hckt.json" },
-    { file: "taichinh.json" },
-    { file: "canbodoangioi.json" }
+    { file: "canbodoangioi.json" },
+    { file: "canbodoangioi2.json" }
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];
