@@ -1,12 +1,13 @@
 // ── Config ────────────────────────────────────────────────────
 const ALL_DATASETS = [
-    { file: "questions.json", label: "📋 Tổng hợp (TM + CT + HCKT)" },
-    { file: "congtacthammuu.json", label: "📌 Công tác Tham mưu" },
-    { file: "chinhtri.json", label: "🏛 Chính trị" },
-    { file: "hckt.json", label: "🔧 Hậu cần Kỹ thuật" },
-    { file: "taichinh.json", label: "💰 Tài chính" },
-    { file: "canbodoangioi.json", label: "🎓 Cán bộ Đoàn Giỏi" },
-    { file: "canbodoangioi2.json", label: "🎓 Cán bộ Đoàn Giỏi 2026"}
+    // { file: "questions.json", label: "📋 Tổng hợp (TM + CT + HCKT)" },
+    // { file: "congtacthammuu.json", label: "📌 Công tác Tham mưu" },
+    // { file: "chinhtri.json", label: "🏛 Chính trị" },
+    // { file: "hckt.json", label: "🔧 Hậu cần Kỹ thuật" },
+    // { file: "taichinh.json", label: "💰 Tài chính" },
+    // { file: "canbodoangioi.json", label: "🎓 Cán bộ Đoàn Giỏi" },
+    // { file: "canbodoangioi2.json", label: "🎓 Cán bộ Đoàn Giỏi 2026"},
+    { file: "don_vi_truc_thuoc_cuc.json", label: "THI CHÍNH QUY CÁC ĐƠN VỊ TRỰC THUỘC CỤC NĂM 2026" }
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];

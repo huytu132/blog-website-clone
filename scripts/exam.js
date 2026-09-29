@@ -1,7 +1,6 @@
 // Danh sách tất cả bộ đề
 const ALL_DATASETS = [
-    { file: "canbodoangioi.json" },
-    { file: "canbodoangioi2.json" }
+    { file: "don_vi_truc_thuoc_cuc.json" },
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];
