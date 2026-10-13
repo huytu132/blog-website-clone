@@ -7,7 +7,8 @@ const ALL_DATASETS = [
     // { file: "taichinh.json", label: "💰 Tài chính" },
     // { file: "canbodoangioi.json", label: "🎓 Cán bộ Đoàn Giỏi" },
     // { file: "canbodoangioi2.json", label: "🎓 Cán bộ Đoàn Giỏi 2026"},
-    { file: "don_vi_truc_thuoc_cuc.json", label: "THI CHÍNH QUY CÁC ĐƠN VỊ TRỰC THUỘC CỤC NĂM 2026" }
+    { file: "don_vi_truc_thuoc_cuc.json", label: "THI CHÍNH QUY CÁC ĐƠN VỊ TRỰC THUỘC CỤC NĂM 2026" },
+    { file: "thi_chinh_quy_cac_dvi.json", label: "THI CHÍNH QUY CÁC ĐƠN VỊ TRỰC THUỘC CỤC NĂM 2026(ĐỐI TƯỢNG QNCN: 130 CÂU)" }
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];

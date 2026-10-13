@@ -1,6 +1,7 @@
 // Danh sách tất cả bộ đề
 const ALL_DATASETS = [
     { file: "don_vi_truc_thuoc_cuc.json" },
+    { file: "thi_chinh_quy_cac_dvi.json" },
 ];
 
 const OPTION_LABELS = ["A", "B", "C", "D", "E"];
